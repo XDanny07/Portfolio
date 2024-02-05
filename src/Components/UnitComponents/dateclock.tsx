@@ -52,8 +52,8 @@ function Dateclock() {
   };
 
   return (
-    <div className="text-white flex flex-col items-center w-max">
-      <div className="relative text-6xl font-bold flex gap-5 align-center">
+    <div className="pointer-events-none text-white flex flex-col items-center w-max">
+      <div className="relative text-8xl font-bold flex gap-5 align-center">
         <span>{convertToTwoDigit(time.hours)}</span>
         <span className="absolute left-[45%] bottom-[8%]">:</span>
         <span>{convertToTwoDigit(time.minutes)}</span>
