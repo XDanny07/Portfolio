@@ -8,7 +8,6 @@ function Lockscreen() {
   const [click, setClick] = useState(false);
   useGSAP(() => {
     if (!click) return;
-
     gsap.to(".helpblur", {
       backdropFilter: "blur(10px)",
       duration: 0.5,
@@ -24,7 +23,7 @@ function Lockscreen() {
     });
   }, [click]);
   return (
-    <div>
+    <div className="absolute lscreen">
       <div
         className="bg-lock w-[100vw] h-[100vh]"
         onClick={async () => {
@@ -47,7 +46,7 @@ function Lockscreen() {
           </div>
         ) : (
           <div className="signin">
-            <Signin />
+            <Signin resetlock={setClick} />
           </div>
         )}
       </div>
