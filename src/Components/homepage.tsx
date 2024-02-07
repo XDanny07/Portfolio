@@ -1,5 +1,5 @@
 import gsap from "gsap";
-
+import Taskbar from "./UnitComponents/taskbar";
 const Homepage = () => {
   return (
     <div className="bg-luffy w-[100vw] h-[100vh]">
@@ -12,6 +12,7 @@ const Homepage = () => {
       >
         lock
       </button>
+      <Taskbar />
     </div>
   );
 };
