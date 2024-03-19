@@ -3,8 +3,8 @@
 @tailwind utilities;
 
 @layer components {
-  .bg-luffy {
-    background: url("./assets/luffy.jpeg");
+  .bg-img {
+    background: url("./assets/winbg.webp");
     background-size: cover;
   }
   .bg-lock {

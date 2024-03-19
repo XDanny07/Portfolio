@@ -1,8 +1,9 @@
 import gsap from "gsap";
 import Taskbar from "./UnitComponents/taskbar";
+import Winpopup from "./UnitComponents/winpopup";
 const Homepage = () => {
   return (
-    <div className="bg-luffy w-[100vw] h-[100vh]">
+    <div className="bg-img w-[100vw] h-[100vh]">
       <p>Homepage</p>
       <button
         onClick={() => {
@@ -12,7 +13,8 @@ const Homepage = () => {
       >
         lock
       </button>
-      <Taskbar />
+      {/* <Winpopup /> */}
+      {/* <Taskbar /> */}
     </div>
   );
 };
