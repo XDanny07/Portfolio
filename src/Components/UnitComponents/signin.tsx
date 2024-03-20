@@ -2,14 +2,17 @@ import { FaArrowRightLong } from "react-icons/fa6";
 import { IoEyeOutline } from "react-icons/io5";
 import { IoEyeOffOutline } from "react-icons/io5";
 import { useState } from "react";
+import { lock } from "../actions/index.tsx";
+import { useDispatch } from "react-redux";
 import gsap from "gsap";
-function Signin(props: any) {
+function Signin() {
+  const dispatch = useDispatch();
   const [showpass, setShowpass] = useState(false);
   const enter = async (e: any) => {
     if (e.key === "Enter" || e === "Enter") {
       gsap.to(".lscreen", { opacity: 0, display: "none", duration: 0.5 });
       await new Promise((r) => setTimeout(r, 500));
-      props.resetlock(false);
+      dispatch(lock(false));
     }
   };
   return (
@@ -40,7 +43,7 @@ function Signin(props: any) {
           />
         )}
         <FaArrowRightLong
-          onClick={(e) => enter("Enter")}
+          onClick={() => enter("Enter")}
           className="cursor-pointer hover:scale-[1.4] transition-all hover:text-blue-600 text-slate-400 absolute right-0 top-0 m-2"
         />
       </div>

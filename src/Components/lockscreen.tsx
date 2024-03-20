@@ -1,11 +1,14 @@
 import Dateclock from "./UnitComponents/dateclock";
 import Signin from "./UnitComponents/signin";
 import Lockscreensicons from "./UnitComponents/lockscreensicons";
-import { useState } from "react";
+// import { useState } from "react";
+import { lock } from "./actions/index.tsx";
+import { useDispatch, useSelector } from "react-redux";
 import { useGSAP } from "@gsap/react";
 import gsap from "gsap";
 function Lockscreen() {
-  const [click, setClick] = useState(false);
+  const click = useSelector((state: any) => state.lockWindows);
+  const dispatch = useDispatch();
   useGSAP(() => {
     if (!click) return;
     gsap.to(".helpblur", {
@@ -34,7 +37,7 @@ function Lockscreen() {
             duration: 0.2,
           });
           await new Promise((r) => setTimeout(r, 400));
-          setClick(true);
+          dispatch(lock(true));
         }}
       >
         <p className="helpblur w-[100%] h-[100%]"></p>
@@ -46,7 +49,7 @@ function Lockscreen() {
           </div>
         ) : (
           <div className="signin">
-            <Signin resetlock={setClick} />
+            <Signin />
           </div>
         )}
       </div>
