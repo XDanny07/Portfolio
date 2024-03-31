@@ -1,5 +1,11 @@
 import { combineReducers } from "redux";
 import lockWindows from "./lockwindows";
-const rootReducer = combineReducers({ lockWindows });
+import showwinpopup from "./showwinpopup";
+import showWinExplorer from "./showwinexplorer";
+const rootReducer = combineReducers({
+  lockWindows,
+  showwinpopup,
+  showWinExplorer,
+});
 
 export default rootReducer;

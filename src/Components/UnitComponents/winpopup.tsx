@@ -1,15 +1,26 @@
 import edge from "../../assets/edge.png";
 import vs from "../../assets/vs.png";
 import userico from "../../assets/user.png";
-import { useState } from "react";
+import { useSelector } from "react-redux";
 import { IoPowerOutline } from "react-icons/io5";
 import { IconContext } from "react-icons";
+import { useGSAP } from "@gsap/react";
+import gsap from "gsap";
 function Winpopup() {
-  const [show, setShow] = useState(false);
+  const clicked = useSelector((state: any) => state.showwinpopup);
+
+  useGSAP(() => {
+    console.log(clicked);
+    gsap.to(".winpop", {
+      y: clicked ? 0 : 450,
+      duration: 0.05,
+      ease: "power4.out",
+    });
+  }, [clicked]);
 
   const icons_div = "flex flex-col align-center justify-center text-center";
   return (
-    <div className="w-[35%] text-white absolute bottom-[8%] left-[41.8%]">
+    <div className="winpop w-[35%] text-white absolute bottom-[8%] left-[41.8%]  transition-all">
       <div className="rounded-t-xl flex flex-col align-center justify-content-between bg-blend bg-slate-900/[0.6] backdrop-blur-3xl text-white  p-8">
         <input
           placeholder="Search"

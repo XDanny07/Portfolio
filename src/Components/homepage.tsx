@@ -1,9 +1,10 @@
 import gsap from "gsap";
 import Taskbar from "./UnitComponents/taskbar";
 import Winpopup from "./UnitComponents/winpopup";
+import Winexplorer from "./UnitComponents/winexplorer";
 const Homepage = () => {
   return (
-    <div className="bg-img w-[100vw] h-[100vh]">
+    <div className="homepage bg-img w-[100vw] h-[100vh]">
       <p>Homepage</p>
       <button
         onClick={() => {
@@ -13,8 +14,9 @@ const Homepage = () => {
       >
         lock
       </button>
-      {/* <Winpopup /> */}
-      {/* <Taskbar /> */}
+      <Winpopup />
+      <Winexplorer />
+      <Taskbar />
     </div>
   );
 };
