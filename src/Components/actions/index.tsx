@@ -21,3 +21,9 @@ export const explorer_clicked = (stat: Boolean) => {
     payload: stat,
   };
 };
+export const resume_clicked = (stat: Boolean) => {
+  return {
+    type: "RESUME_CLICKED",
+    payload: stat,
+  };
+};

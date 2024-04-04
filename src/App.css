@@ -8,4 +8,5 @@ body {
   height: 100%; */
   color: white;
   overflow-y: hidden;
+  user-select: none;
 }

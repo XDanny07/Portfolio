@@ -1,19 +1,21 @@
-import gsap from "gsap";
 import Taskbar from "./UnitComponents/taskbar";
 import Winpopup from "./UnitComponents/winpopup";
 import Winexplorer from "./UnitComponents/winexplorer";
+import Resume from "./UnitComponents/resume";
+import Desktopicons from "./UnitComponents/desktopicons";
 const Homepage = () => {
   return (
     <div className="homepage bg-img w-[100vw] h-[100vh]">
-      <p>Homepage</p>
-      <button
+      <Desktopicons />
+      {/* <button
         onClick={() => {
           gsap.to(".lscreen", { opacity: 1, display: "block", duration: 0.5 });
         }}
         className="lock"
       >
         lock
-      </button>
+      </button> */}
+      <Resume />
       <Winpopup />
       <Winexplorer />
       <Taskbar />
