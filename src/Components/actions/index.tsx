@@ -27,3 +27,9 @@ export const resume_clicked = (stat: Boolean) => {
     payload: stat,
   };
 };
+export const trash_clicked = (stat: Boolean) => {
+  return {
+    type: "TRASH_CLICKED",
+    payload: stat,
+  };
+};

@@ -3,7 +3,9 @@ import useDragger from "../../hooks/useDragger";
 import useAnim from "../../hooks/useAnim";
 import { explorer_clicked } from "../actions";
 import thispc from "../../assets/icons/Desktop/this_pc.ico";
-
+import Explorer_navbar from "./explorercomponents/explorer_navbar";
+import Explorer_extended_navbar from "./explorercomponents/explorer_extended_navbar";
+import Explorer_sidebar from "./explorercomponents/explorer_sidebar";
 function Winexplorer() {
   const clicked = useSelector((state: any) => state.showWinExplorer);
   const dispatch = useDispatch();
@@ -12,13 +14,13 @@ function Winexplorer() {
   return (
     <div
       id="winexplorer"
-      className="hidden absolute top-[10%] rounded-lg w-[800px] h-[450px] cursor-pointer bg-transparent backdrop-blur-3xl"
+      className="hidden absolute top-[10%] rounded-lg w-[1000px] h-[600px] cursor-pointer bg-transparent backdrop-blur-3xl"
     >
       <div
         id="tab_winexplorer"
         className="w-[100%] h-[29px] rounded-t-lg bg-[#18110D] flex justify-between items-center text-white text-sm cursor-pointer"
       >
-        <div className="px-2 font-bold flex items-center gap-2">
+        <div className="px-4 font-bold flex items-center gap-2 bg-[#262628] py-[0.3rem] rounded-t-lg">
           <img src={thispc} className="w-[1.1rem]" alt="" />
           <p>This PC</p>
         </div>
@@ -33,9 +35,10 @@ function Winexplorer() {
           </span>
         </div>
       </div>
-      <div className="flex h-max w-[30%] border border-2">
-        <div>NAVIGATION</div>
-        <div>CONTENT</div>
+      <div className="relative h-full">
+        <Explorer_navbar />
+        <Explorer_extended_navbar />
+        <Explorer_sidebar />
       </div>
     </div>
   );

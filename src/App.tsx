@@ -4,7 +4,7 @@ import Lockscreen from "./Components/lockscreen";
 
 function App() {
   return (
-    <div>
+    <div className="select-none">
       <Lockscreen />
       <Homepage />
     </div>
