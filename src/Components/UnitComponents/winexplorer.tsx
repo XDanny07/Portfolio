@@ -6,6 +6,7 @@ import thispc from "../../assets/icons/Desktop/this_pc.ico";
 import Explorer_navbar from "./explorercomponents/explorer_navbar";
 import Explorer_extended_navbar from "./explorercomponents/explorer_extended_navbar";
 import Explorer_sidebar from "./explorercomponents/explorer_sidebar";
+import Explorer_content from "./explorercomponents/explorer_content";
 function Winexplorer() {
   const clicked = useSelector((state: any) => state.showWinExplorer);
   const dispatch = useDispatch();
@@ -14,7 +15,7 @@ function Winexplorer() {
   return (
     <div
       id="winexplorer"
-      className="hidden absolute top-[10%] rounded-lg w-[1000px] h-[600px] cursor-pointer bg-transparent backdrop-blur-3xl"
+      className="hidden absolute top-[10%] rounded-lg w-[1000px] h-[600px] cursor-pointer bg-transparent backdrop-blur-3xl overflow-hidden"
     >
       <div
         id="tab_winexplorer"
@@ -35,10 +36,13 @@ function Winexplorer() {
           </span>
         </div>
       </div>
-      <div className="relative h-full">
+      <div className="relative h-full ">
         <Explorer_navbar />
         <Explorer_extended_navbar />
-        <Explorer_sidebar />
+        <div className="flex h-full">
+          <Explorer_sidebar />
+          <Explorer_content />
+        </div>
       </div>
     </div>
   );
