@@ -4,30 +4,38 @@ import file from "../../assets/fold.avif";
 import vs from "../../assets/vs.png";
 import { winclicked, explorer_clicked } from "../actions";
 import { useSelector, useDispatch } from "react-redux";
+import { NavLink } from "react-router-dom";
 
 function Taskbar() {
   const dispatch = useDispatch();
   const clicked = useSelector((state: any) => state.showwinpopup);
-  const iconhover = "p-[0.7rem] cursor-pointer";
+  const img_class =
+    "w-[3.3rem] p-[0.6rem] hover:bg-white/[0.15] hover:backdrop-blur-[1px] rounded-md";
 
   return (
-    <div className="taskbar  flex align-center justify-center gap-4 absolute bottom-0 backdrop-blur-3xl w-full h-[3.5rem]">
-      <img
-        className={iconhover}
-        src={windows}
-        alt=""
-        onClick={() => {
-          dispatch(winclicked());
-        }}
-      />
-      <img
-        className={iconhover}
-        src={file}
-        alt=""
+    <div className="taskbar flex items-center  justify-center gap-4 absolute bottom-0 backdrop-blur-3xl w-full h-[3.5rem]">
+      <div className={img_class + " cursor-pointer"}>
+        <img
+          src={windows}
+          alt=""
+          onClick={() => {
+            dispatch(winclicked());
+          }}
+        />
+      </div>
+      <NavLink
+        to={"./Quick_Access"}
+        className={img_class}
         onClick={() => dispatch(explorer_clicked(true))}
-      />
-      <img className={iconhover} src={edge} alt="" />
-      <img className={iconhover} src={vs} alt="" />
+      >
+        <img src={file} alt="" />
+      </NavLink>
+      <NavLink to={""} className={img_class}>
+        <img src={edge} alt="" />
+      </NavLink>
+      <NavLink to={""} className={img_class}>
+        <img src={vs} alt="" />
+      </NavLink>
     </div>
   );
 }

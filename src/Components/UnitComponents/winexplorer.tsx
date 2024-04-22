@@ -15,21 +15,25 @@ function Winexplorer() {
   return (
     <div
       id="winexplorer"
-      className="hidden absolute top-[10%] rounded-lg w-[1000px] h-[600px] cursor-pointer bg-transparent backdrop-blur-3xl overflow-hidden"
+      className="hidden absolute top-[10%] rounded-lg w-[1000px] h-[600px] bg-transparent backdrop-blur-3xl overflow-hidden"
     >
       <div
         id="tab_winexplorer"
-        className="w-[100%] h-[29px] rounded-t-lg bg-[#18110D] flex justify-between items-center text-white text-sm cursor-pointer"
+        className="w-[100%] cursor-pointer h-[38px] rounded-t-lg bg-[#18110D] flex justify-between items-center text-white text-sm cursor-pointer"
       >
-        <div className="px-4 font-bold flex items-center gap-2 bg-[#262628] py-[0.3rem] rounded-t-lg">
+        <div className="text-md px-5 py-[0.6rem] font-bold flex items-center gap-2 bg-[#262628] rounded-t-lg">
           <img src={thispc} className="w-[1.1rem]" alt="" />
           <p>This PC</p>
         </div>
-        <div className="text-lg flex">
-          <span className="hover:bg-[#232427] px-2">&#8722; </span>
-          <span className="hover:bg-[#232427] px-2">&#x25A2;</span>
+        <div className="flex">
+          <span className="py-[5rem] px-[1rem] text-lg hover:bg-[#232427] px-2">
+            &#8722;{" "}
+          </span>
+          <span className="py-[5rem] px-[1rem] text-lg hover:bg-[#232427] px-2">
+            &#x25A2;
+          </span>
           <span
-            className="hover:bg-red-700 px-2 rounded-tr-lg"
+            className="py-[5rem] px-[1rem] text-lg hover:bg-red-700 px-2 rounded-tr-lg"
             onClick={() => dispatch(explorer_clicked(false))}
           >
             &#x2715;

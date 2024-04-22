@@ -176,7 +176,9 @@ function Resume() {
               <p className="text-md">C, C++, Python, JavaScript, Java</p>
             </div>
             <div className="flex gap-2">
-              <p className="text-md font-medium">Web Technologies : </p>
+              <p className="text-md font-medium text-nowrap">
+                Web Technologies :
+              </p>
               <p className="text-md">
                 React.js, Node.js, Angular, Django, Express.js, Javascript,
                 TailwindCSS, GSAP, jQuery, Bootstrap5

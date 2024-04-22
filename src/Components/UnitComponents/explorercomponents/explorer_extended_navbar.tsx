@@ -9,14 +9,19 @@ import updown_ico from "../../../assets/explorer_custom_icons/updown.png";
 import scissor_ico from "../../../assets/explorer_custom_icons/scissors.png";
 import { MdKeyboardArrowDown } from "react-icons/md";
 function Explorer_extended_navbar() {
-  const img_class = "w-[2rem] object-cover cursor-pointer p-1 rounded-md";
+  const img_class =
+    "w-[2rem] object-cover cursor-pointer p-[0.3rem] rounded-md";
   const hover_class = "hover:bg-white/[0.15] hover:backdrop-blur-[1px]";
   return (
-    <div className="bg-[#191919] flex items-center px-2 py-2 mt-[-1px] border-[#3B3A38] border-b-[0.1rem]">
+    <div className="bg-[#191919] flex items-center px-2 py-[0.4rem] mt-[-1px] border-[#3B3A38] border-b-[0.1rem]">
       <div
         className={`flex items-center gap-1 px-2 py-2 ${hover_class} rounded-md`}
       >
-        <img className={img_class} src={pluscircle_ico} alt="" />
+        <img
+          className="w-[2rem] object-cover cursor-pointer p-1 rounded-md"
+          src={pluscircle_ico}
+          alt=""
+        />
         <p>New</p>
         <MdKeyboardArrowDown />
       </div>
