@@ -33,3 +33,9 @@ export const trash_clicked = (stat: Boolean) => {
     payload: stat,
   };
 };
+export const error_triggered = (stat: Object) => {
+  return {
+    type: "ERROR_TRIGGERED",
+    payload: stat,
+  };
+};

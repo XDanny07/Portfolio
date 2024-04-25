@@ -1,0 +1,3550 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Alarm01.flac" source="derivative">
+    <format>Flac</format>
+    <original>Alarm01.wav</original>
+    <mtime>1678301213</mtime>
+    <size>220182</size>
+    <md5>f7655f53cd183c3972acc44e92f28ad5</md5>
+    <crc32>af1e84d7</crc32>
+    <sha1>724bd8a9427cb27dcd19d33a9af4307236396957</sha1>
+    <length>5.57</length>
+  </file>
+  <file name="Alarm01.mp3" source="derivative">
+    <bitrate>130</bitrate>
+    <length>00:05</length>
+    <format>VBR MP3</format>
+    <original>Alarm01.wav</original>
+    <mtime>1678224194</mtime>
+    <size>92745</size>
+    <md5>f4c79abbe438413b87cc59bd779e1ddc</md5>
+    <crc32>61501a8c</crc32>
+    <sha1>87511f6e03db9fa29d99c5d582c2a8cfd89dd55f</sha1>
+  </file>
+  <file name="Alarm01.png" source="derivative">
+    <format>PNG</format>
+    <original>Alarm01.wav</original>
+    <mtime>1678302685</mtime>
+    <size>32228</size>
+    <md5>0cf7e52bdce54e79dc9a8970f88b33fc</md5>
+    <crc32>d3368189</crc32>
+    <sha1>fa95680677ee1bd81c25116ea6b24f51ddff448e</sha1>
+  </file>
+  <file name="Alarm01.wav" source="original">
+    <mtime>1678223775</mtime>
+    <size>491516</size>
+    <md5>19bf2baa9dd673175f38f43cd8304d5f</md5>
+    <crc32>2ba42ace</crc32>
+    <sha1>102293691f806059debcd25daf62fadd1e121dcb</sha1>
+    <format>WAVE</format>
+    <length>5.57</length>
+    <track>01</track>
+  </file>
+  <file name="Alarm01_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Alarm01.wav</original>
+    <mtime>1678302966</mtime>
+    <size>348145</size>
+    <md5>f3477015d504a4246e89295f6db3819c</md5>
+    <crc32>b5c58cea</crc32>
+    <sha1>6ffc3787a1d5bb7534ed56aa918e5884350c691d</sha1>
+  </file>
+  <file name="Alarm02.flac" source="derivative">
+    <format>Flac</format>
+    <original>Alarm02.wav</original>
+    <mtime>1678301310</mtime>
+    <size>56491</size>
+    <md5>282eff4ebfbf5494c105c428f0be219e</md5>
+    <crc32>237f7277</crc32>
+    <sha1>b1d38335aae7bfc3ac3475696db5a56e0a0f6e16</sha1>
+    <length>3.75</length>
+  </file>
+  <file name="Alarm02.mp3" source="derivative">
+    <bitrate>72</bitrate>
+    <length>00:03</length>
+    <format>VBR MP3</format>
+    <original>Alarm02.wav</original>
+    <mtime>1678224473</mtime>
+    <size>35469</size>
+    <md5>fb1ff36b00ae0442c5d8663497c7015e</md5>
+    <crc32>1ca0acc9</crc32>
+    <sha1>948d58a5c55264b3b034097f607fdd8ad5ab211d</sha1>
+  </file>
+  <file name="Alarm02.png" source="derivative">
+    <format>PNG</format>
+    <original>Alarm02.wav</original>
+    <mtime>1678301817</mtime>
+    <size>19716</size>
+    <md5>38baa90ea627fd46572a9e27a145bedd</md5>
+    <crc32>7023d9c0</crc32>
+    <sha1>babd9a0a64e0b1b17060867c2fa974f21455d2df</sha1>
+  </file>
+  <file name="Alarm02.wav" source="original">
+    <mtime>1678223778</mtime>
+    <size>331108</size>
+    <md5>84fd68e504f0dbcf99f0e25c52eee937</md5>
+    <crc32>bcb68abe</crc32>
+    <sha1>58d9bf701eaea20470ef0a27ac71de1907f7fb15</sha1>
+    <format>WAVE</format>
+    <length>3.75</length>
+    <track>02</track>
+  </file>
+  <file name="Alarm02_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Alarm02.wav</original>
+    <mtime>1678303156</mtime>
+    <size>216912</size>
+    <md5>946d36b57a9ac1c044d36711e2609695</md5>
+    <crc32>e758b6e4</crc32>
+    <sha1>c730be04c2dfe7ace85ed2888410e1bef2c1cda9</sha1>
+  </file>
+  <file name="Alarm03.flac" source="derivative">
+    <format>Flac</format>
+    <original>Alarm03.wav</original>
+    <mtime>1678301399</mtime>
+    <size>88001</size>
+    <md5>5b1de64b4d7b3d7ffd23645920607d14</md5>
+    <crc32>60e83900</crc32>
+    <sha1>6cd2829d62c5243aaa99b4f11491b0d0e5f0098b</sha1>
+    <length>4.03</length>
+  </file>
+  <file name="Alarm03.mp3" source="derivative">
+    <bitrate>110</bitrate>
+    <length>00:04</length>
+    <format>VBR MP3</format>
+    <original>Alarm03.wav</original>
+    <mtime>1678224412</mtime>
+    <size>57529</size>
+    <md5>4a128569c9fe8248569dfa1861e10e45</md5>
+    <crc32>07f0298b</crc32>
+    <sha1>5812a5a34ae4decffec00fe1b1d80a996f216f2a</sha1>
+  </file>
+  <file name="Alarm03.png" source="derivative">
+    <format>PNG</format>
+    <original>Alarm03.wav</original>
+    <mtime>1678301867</mtime>
+    <size>25295</size>
+    <md5>9866007c3d2bab282c9fd6afde0023c4</md5>
+    <crc32>0097bb02</crc32>
+    <sha1>c1141d9e03f2ddf905830705edc10535b9f239f9</sha1>
+  </file>
+  <file name="Alarm03.wav" source="original">
+    <mtime>1678223781</mtime>
+    <size>355588</size>
+    <md5>5993a6000412f4fb44403e5ea077162e</md5>
+    <crc32>1f9b7a78</crc32>
+    <sha1>639d2ae4cf01d8ffc3290df2c9562cc129fdab88</sha1>
+    <format>WAVE</format>
+    <length>4.03</length>
+    <track>03</track>
+  </file>
+  <file name="Alarm03_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Alarm03.wav</original>
+    <mtime>1678303132</mtime>
+    <size>252108</size>
+    <md5>c990d0c12061aaa9e2cfa163a586c2fe</md5>
+    <crc32>b27573d5</crc32>
+    <sha1>a775a91fe74e64ce86c350e28763574001683a5a</sha1>
+  </file>
+  <file name="Alarm04.flac" source="derivative">
+    <format>Flac</format>
+    <original>Alarm04.wav</original>
+    <mtime>1678301294</mtime>
+    <size>92272</size>
+    <md5>ad8476e5002393c9752915610e9a921f</md5>
+    <crc32>855f05ba</crc32>
+    <sha1>adcc54b92ef87b90a80c169ea1af1580beea8d7d</sha1>
+    <length>4.63</length>
+  </file>
+  <file name="Alarm04.mp3" source="derivative">
+    <bitrate>93.1</bitrate>
+    <length>00:04</length>
+    <format>VBR MP3</format>
+    <original>Alarm04.wav</original>
+    <mtime>1678224521</mtime>
+    <size>55854</size>
+    <md5>5e1c53864533c9df0ff9ac8d0286b6f1</md5>
+    <crc32>21c00368</crc32>
+    <sha1>fbe739cf0f45f77e0c218b82e0922901746c16ea</sha1>
+  </file>
+  <file name="Alarm04.png" source="derivative">
+    <format>PNG</format>
+    <original>Alarm04.wav</original>
+    <mtime>1678301945</mtime>
+    <size>9426</size>
+    <md5>f9971ccd892d0e87149a93713a17260d</md5>
+    <crc32>c426e084</crc32>
+    <sha1>1fc78a9798247209f6e9fc82584c35e72de4ec23</sha1>
+  </file>
+  <file name="Alarm04.wav" source="original">
+    <mtime>1678223783</mtime>
+    <size>409152</size>
+    <md5>faee24e98cd256e204faf5168fa39d24</md5>
+    <crc32>ba9fc745</crc32>
+    <sha1>b8e21d4b09f5915d465b578999e4b7e464973815</sha1>
+    <format>WAVE</format>
+    <length>4.63</length>
+    <track>04</track>
+  </file>
+  <file name="Alarm04_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Alarm04.wav</original>
+    <mtime>1678303163</mtime>
+    <size>223210</size>
+    <md5>8f835d1e3c70d3840f2b5ca69e90e32d</md5>
+    <crc32>c0399ef6</crc32>
+    <sha1>714406150963b088b8a57cacc0b57924b73736a2</sha1>
+  </file>
+  <file name="Alarm05.flac" source="derivative">
+    <format>Flac</format>
+    <original>Alarm05.wav</original>
+    <mtime>1678301270</mtime>
+    <size>224208</size>
+    <md5>b5ee49dd23089de059c6a031c1ce48f0</md5>
+    <crc32>324adc7e</crc32>
+    <sha1>c23d49a577512e1bc302c8e1bc6ef1081d8b2e53</sha1>
+    <length>8.26</length>
+  </file>
+  <file name="Alarm05.mp3" source="derivative">
+    <bitrate>121</bitrate>
+    <length>00:08</length>
+    <format>VBR MP3</format>
+    <original>Alarm05.wav</original>
+    <mtime>1678224170</mtime>
+    <size>127301</size>
+    <md5>9518087b67f466a68329ea0aa3be5beb</md5>
+    <crc32>e3ccf391</crc32>
+    <sha1>9542a6650bf19459325fc0b3d53b7c13f3158437</sha1>
+  </file>
+  <file name="Alarm05.png" source="derivative">
+    <format>PNG</format>
+    <original>Alarm05.wav</original>
+    <mtime>1678302213</mtime>
+    <size>19152</size>
+    <md5>631bdfb9dc3e50429fd2ae023a320f8d</md5>
+    <crc32>717d3eb4</crc32>
+    <sha1>386ed96928952a63f41060d2d28bb120b129f985</sha1>
+  </file>
+  <file name="Alarm05.wav" source="original">
+    <mtime>1678223786</mtime>
+    <size>728396</size>
+    <md5>fa0ba040eaaa83e12154299bada22a32</md5>
+    <crc32>e845b96b</crc32>
+    <sha1>d066148661326f37f92357fa3e21995f038955a9</sha1>
+    <format>WAVE</format>
+    <length>8.26</length>
+    <track>05</track>
+  </file>
+  <file name="Alarm05_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Alarm05.wav</original>
+    <mtime>1678303344</mtime>
+    <size>301925</size>
+    <md5>ebd8b85974289bc8866f5bc84b8ce9e2</md5>
+    <crc32>618f5d3b</crc32>
+    <sha1>d5a538ecae1b039571ad50ba0c9c8c5a39881706</sha1>
+  </file>
+  <file name="Alarm06.flac" source="derivative">
+    <format>Flac</format>
+    <original>Alarm06.wav</original>
+    <mtime>1678301190</mtime>
+    <size>143331</size>
+    <md5>66bb5c9ef2e9f4489c4d23f95106bc27</md5>
+    <crc32>43e03976</crc32>
+    <sha1>804f972e45bd128933230800bd00bfdcdc8c3ee6</sha1>
+    <length>6.8</length>
+  </file>
+  <file name="Alarm06.mp3" source="derivative">
+    <bitrate>118</bitrate>
+    <length>00:06</length>
+    <format>VBR MP3</format>
+    <original>Alarm06.wav</original>
+    <mtime>1678224099</mtime>
+    <size>102400</size>
+    <md5>94e6bae297153c19950beda278b38b5f</md5>
+    <crc32>b4d55a42</crc32>
+    <sha1>3cba1cc3451b3d525c741eca5389a0b28687f38b</sha1>
+  </file>
+  <file name="Alarm06.png" source="derivative">
+    <format>PNG</format>
+    <original>Alarm06.wav</original>
+    <mtime>1678302052</mtime>
+    <size>24534</size>
+    <md5>a025e927548237b346714fd71b4aeac5</md5>
+    <crc32>6d27b007</crc32>
+    <sha1>c6d2f43f78c4f413214fe47e971ac2c9766e9cae</sha1>
+  </file>
+  <file name="Alarm06.wav" source="original">
+    <mtime>1678223789</mtime>
+    <size>600252</size>
+    <md5>4882ea66a407c8e9f9c17578f5cfb52e</md5>
+    <crc32>a2df44d7</crc32>
+    <sha1>ec75707f1ffd891f6fc636f672a416ce4b885650</sha1>
+    <format>WAVE</format>
+    <length>6.8</length>
+    <track>06</track>
+  </file>
+  <file name="Alarm06_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Alarm06.wav</original>
+    <mtime>1678303336</mtime>
+    <size>295892</size>
+    <md5>00f02beebb978728f4cd85c5fafbc333</md5>
+    <crc32>1bfca88c</crc32>
+    <sha1>478f180382f38fac5c9e5dca5bed13d5389f05d8</sha1>
+  </file>
+  <file name="Alarm07.flac" source="derivative">
+    <format>Flac</format>
+    <original>Alarm07.wav</original>
+    <mtime>1678301353</mtime>
+    <size>135907</size>
+    <md5>687e4ae488743cd1c5c20e42f513acb9</md5>
+    <crc32>43bd41cd</crc32>
+    <sha1>6f068af190b8c9ef74fbdc5ba8e76878d528083c</sha1>
+    <length>6.36</length>
+  </file>
+  <file name="Alarm07.mp3" source="derivative">
+    <bitrate>112</bitrate>
+    <length>00:06</length>
+    <format>VBR MP3</format>
+    <original>Alarm07.wav</original>
+    <mtime>1678224048</mtime>
+    <size>91340</size>
+    <md5>6dcb4be943850d39b8704a66b0ab34a3</md5>
+    <crc32>4e312d71</crc32>
+    <sha1>d6ed55babda3c5ea9203ba164aa45c334a73ae4f</sha1>
+  </file>
+  <file name="Alarm07.png" source="derivative">
+    <format>PNG</format>
+    <original>Alarm07.wav</original>
+    <mtime>1678302101</mtime>
+    <size>24344</size>
+    <md5>66f57f2462f682dcec6c8fddf7165446</md5>
+    <crc32>ae82ed1a</crc32>
+    <sha1>21d0a3b61d6799363ddee40df09a84327c0a2d62</sha1>
+  </file>
+  <file name="Alarm07.wav" source="original">
+    <mtime>1678223791</mtime>
+    <size>560944</size>
+    <md5>68ec588b8dcce91f8834a9f1965db7c0</md5>
+    <crc32>0bdc9769</crc32>
+    <sha1>13459a736ef72e80bdc26644d9be5a2737b8f7c1</sha1>
+    <format>WAVE</format>
+    <length>6.36</length>
+    <track>07</track>
+  </file>
+  <file name="Alarm07_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Alarm07.wav</original>
+    <mtime>1678303180</mtime>
+    <size>272966</size>
+    <md5>05b592cf250d132821b5987e1656e850</md5>
+    <crc32>4ab519f1</crc32>
+    <sha1>90ef8ef8c50fccb4a697b03729675fdad212d2d3</sha1>
+  </file>
+  <file name="Alarm08.flac" source="derivative">
+    <format>Flac</format>
+    <original>Alarm08.wav</original>
+    <mtime>1678301469</mtime>
+    <size>124285</size>
+    <md5>37b712e1ec010e67d2c8c8bc1ccf057b</md5>
+    <crc32>5212a7e8</crc32>
+    <sha1>9011371be92c2e6c49fd853b0e1a2ca7e6331f6d</sha1>
+    <length>5.73</length>
+  </file>
+  <file name="Alarm08.mp3" source="derivative">
+    <bitrate>111</bitrate>
+    <length>00:05</length>
+    <format>VBR MP3</format>
+    <original>Alarm08.wav</original>
+    <mtime>1678224241</mtime>
+    <size>81662</size>
+    <md5>943c3a45ad2c0e9f5f94c1fe62f2cf56</md5>
+    <crc32>d9299f2f</crc32>
+    <sha1>5e766cfaf4ca0613dc426eb83412beeadcad2756</sha1>
+  </file>
+  <file name="Alarm08.png" source="derivative">
+    <format>PNG</format>
+    <original>Alarm08.wav</original>
+    <mtime>1678302189</mtime>
+    <size>17000</size>
+    <md5>e70dd5671cabf1b3077107e2c7a6e423</md5>
+    <crc32>666a1a3f</crc32>
+    <sha1>08a21df61a5ca1563d5bd941e29729b9f662ab94</sha1>
+  </file>
+  <file name="Alarm08.wav" source="original">
+    <mtime>1678223793</mtime>
+    <size>505788</size>
+    <md5>63cd33836765837fbccc441c4dc1250b</md5>
+    <crc32>40f68783</crc32>
+    <sha1>9b9af371fb8bc321375a8dab9e8ea824a0e33652</sha1>
+    <format>WAVE</format>
+    <length>5.73</length>
+    <track>08</track>
+  </file>
+  <file name="Alarm08_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Alarm08.wav</original>
+    <mtime>1678302799</mtime>
+    <size>296184</size>
+    <md5>3f4840355a1bfac6e8b7ea7ec99416dd</md5>
+    <crc32>67af1d35</crc32>
+    <sha1>4c43ed3828535385c71318463f0710b580c100e5</sha1>
+  </file>
+  <file name="Alarm09.flac" source="derivative">
+    <format>Flac</format>
+    <original>Alarm09.wav</original>
+    <mtime>1678301439</mtime>
+    <size>95495</size>
+    <md5>8fe2ed7cb21389b5248c9dbdd4043a82</md5>
+    <crc32>3b6e3964</crc32>
+    <sha1>77c59be3353570ab57f459b7dd3570c9e035df3b</sha1>
+    <length>5.48</length>
+  </file>
+  <file name="Alarm09.mp3" source="derivative">
+    <bitrate>93.2</bitrate>
+    <length>00:05</length>
+    <format>VBR MP3</format>
+    <original>Alarm09.wav</original>
+    <mtime>1678224373</mtime>
+    <size>65666</size>
+    <md5>c9cead630c6af7d8a667361e52cc5b8e</md5>
+    <crc32>d5f1d7e4</crc32>
+    <sha1>d688d21b33b0169c33bdce841f3d6c6173a6afe5</sha1>
+  </file>
+  <file name="Alarm09.png" source="derivative">
+    <format>PNG</format>
+    <original>Alarm09.wav</original>
+    <mtime>1678302258</mtime>
+    <size>20799</size>
+    <md5>9261dff33ead2bbed4545e561285c9f7</md5>
+    <crc32>639e4a8a</crc32>
+    <sha1>d98260ca031f2917f0dd045aad1e2d162a00b632</sha1>
+  </file>
+  <file name="Alarm09.wav" source="original">
+    <mtime>1678223796</mtime>
+    <size>483904</size>
+    <md5>70b1b01217fac7d76cb8f12480089515</md5>
+    <crc32>4d15ea13</crc32>
+    <sha1>3b078572f22ad79924e131fa55c174f39f634fdd</sha1>
+    <format>WAVE</format>
+    <length>5.48</length>
+    <track>09</track>
+  </file>
+  <file name="Alarm09_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Alarm09.wav</original>
+    <mtime>1678303140</mtime>
+    <size>235885</size>
+    <md5>4cf4a75294972251f510d37592d81012</md5>
+    <crc32>c77b9f5d</crc32>
+    <sha1>cbb9b0fca4c60bef9f52ddf95f27cce06342a01b</sha1>
+  </file>
+  <file name="Alarm10.flac" source="derivative">
+    <format>Flac</format>
+    <original>Alarm10.wav</original>
+    <mtime>1678301407</mtime>
+    <size>70305</size>
+    <md5>3370ea8d0b0a2cd17f691f46b44f87a6</md5>
+    <crc32>afda02f0</crc32>
+    <sha1>e1b0b04255a597be57f2be3021bf900acf9f58ef</sha1>
+    <length>3.8</length>
+  </file>
+  <file name="Alarm10.mp3" source="derivative">
+    <bitrate>85.9</bitrate>
+    <length>00:03</length>
+    <format>VBR MP3</format>
+    <original>Alarm10.wav</original>
+    <mtime>1678224319</mtime>
+    <size>42647</size>
+    <md5>bfdafc4c25924aa14d3dcee34e5a99c2</md5>
+    <crc32>07e5d730</crc32>
+    <sha1>b5a6bd8decac429356427eb2ee57b65c96993cbc</sha1>
+  </file>
+  <file name="Alarm10.png" source="derivative">
+    <format>PNG</format>
+    <original>Alarm10.wav</original>
+    <mtime>1678302316</mtime>
+    <size>17449</size>
+    <md5>0de38c29b70b1bf8b8e183b3d96e9f14</md5>
+    <crc32>3421f134</crc32>
+    <sha1>d54f774c084d7e3cedeebbdf13e2ea81e5c041b0</sha1>
+  </file>
+  <file name="Alarm10.wav" source="original">
+    <mtime>1678223799</mtime>
+    <size>335564</size>
+    <md5>fce7c93abcb5fbf66040e2c5552acba9</md5>
+    <crc32>92fd1595</crc32>
+    <sha1>cd951ca6e88b63763117c1297459ca3cb9ea2dc0</sha1>
+    <format>WAVE</format>
+    <length>3.8</length>
+    <track>10</track>
+  </file>
+  <file name="Alarm10_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Alarm10.wav</original>
+    <mtime>1678303108</mtime>
+    <size>208008</size>
+    <md5>94f48816d2ad6805fcef89de25b18147</md5>
+    <crc32>ed2d1542</crc32>
+    <sha1>80d555984ca72316a2ce7d898fb64ee71b4337ea</sha1>
+  </file>
+  <file name="Ring01.flac" source="derivative">
+    <format>Flac</format>
+    <original>Ring01.wav</original>
+    <mtime>1678301554</mtime>
+    <size>103711</size>
+    <md5>8a4b543337244623910cf3ce9649a6b3</md5>
+    <crc32>3feaa629</crc32>
+    <sha1>42be3aaea6b9fbdf053c9800616ea465aee851b3</sha1>
+    <length>5.65</length>
+  </file>
+  <file name="Ring01.mp3" source="derivative">
+    <bitrate>98.4</bitrate>
+    <length>00:05</length>
+    <format>VBR MP3</format>
+    <original>Ring01.wav</original>
+    <mtime>1678224594</mtime>
+    <size>71539</size>
+    <md5>34d2494fd83076f7398f9773590f9391</md5>
+    <crc32>fbd52a51</crc32>
+    <sha1>15a1bfa6401e26b88dd3696c3b5afbff85dbfc74</sha1>
+  </file>
+  <file name="Ring01.png" source="derivative">
+    <format>PNG</format>
+    <original>Ring01.wav</original>
+    <mtime>1678301854</mtime>
+    <size>18204</size>
+    <md5>833edd33e81c5f6441a15c70b2e4134a</md5>
+    <crc32>44bbe488</crc32>
+    <sha1>cbf43b3e762046605d90387d5916022a311a0320</sha1>
+  </file>
+  <file name="Ring01.wav" source="original">
+    <mtime>1678223819</mtime>
+    <size>498420</size>
+    <md5>0c79d456029193b8295f30506488f8a3</md5>
+    <crc32>3c264535</crc32>
+    <sha1>11a53038db137aad8fa4559e0b0e173e1745ae3c</sha1>
+    <format>WAVE</format>
+    <length>5.65</length>
+    <track>16</track>
+  </file>
+  <file name="Ring01_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Ring01.wav</original>
+    <mtime>1678303093</mtime>
+    <size>247772</size>
+    <md5>e420e7bd28d5eb5ee56045102334afb7</md5>
+    <crc32>71a601d4</crc32>
+    <sha1>0922c32ad13e24bbe19589d723217735cb528b86</sha1>
+  </file>
+  <file name="Ring02.flac" source="derivative">
+    <format>Flac</format>
+    <original>Ring02.wav</original>
+    <mtime>1678301477</mtime>
+    <size>73743</size>
+    <md5>fd7e91726e0e70c5a630625671aaa994</md5>
+    <crc32>c25a3618</crc32>
+    <sha1>11d9ac948ba3b90e59976614eada6187fad9f75a</sha1>
+    <length>3.56</length>
+  </file>
+  <file name="Ring02.mp3" source="derivative">
+    <bitrate>118</bitrate>
+    <length>00:03</length>
+    <format>VBR MP3</format>
+    <original>Ring02.wav</original>
+    <mtime>1678224568</mtime>
+    <size>54587</size>
+    <md5>6d8ec84d3b099f721130ea307c3f52bb</md5>
+    <crc32>22eadfbb</crc32>
+    <sha1>290c44b3962968d7a7117d530d6f4660106c795e</sha1>
+  </file>
+  <file name="Ring02.png" source="derivative">
+    <format>PNG</format>
+    <original>Ring02.wav</original>
+    <mtime>1678302284</mtime>
+    <size>23642</size>
+    <md5>f850bd61903ffed7caec29eee8b8ba98</md5>
+    <crc32>ce94496d</crc32>
+    <sha1>ab20022b329584c5d33b8444c48f8419f4b89661</sha1>
+  </file>
+  <file name="Ring02.wav" source="original">
+    <mtime>1678223821</mtime>
+    <size>314468</size>
+    <md5>e408860a31f4e6b91b138cb019aa5239</md5>
+    <crc32>775d2d35</crc32>
+    <sha1>b44311db739dabdacc8911b38fb695e0a863da5c</sha1>
+    <format>WAVE</format>
+    <length>3.56</length>
+    <track>17</track>
+  </file>
+  <file name="Ring02_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Ring02.wav</original>
+    <mtime>1678303171</mtime>
+    <size>285121</size>
+    <md5>a02132d5d8670507099973f5a2038d4c</md5>
+    <crc32>4b7dd5dc</crc32>
+    <sha1>fede4144edb8489055852dd572100661c14b0a8c</sha1>
+  </file>
+  <file name="Ring03.flac" source="derivative">
+    <format>Flac</format>
+    <original>Ring03.wav</original>
+    <mtime>1678301642</mtime>
+    <size>315646</size>
+    <md5>b653eb7246074464e7f0771515ac875a</md5>
+    <crc32>94631023</crc32>
+    <sha1>83b01c72305113cd80e82faa1037baa519abae1f</sha1>
+    <length>9.37</length>
+  </file>
+  <file name="Ring03.mp3" source="derivative">
+    <bitrate>133</bitrate>
+    <length>00:09</length>
+    <format>VBR MP3</format>
+    <original>Ring03.wav</original>
+    <mtime>1678224654</mtime>
+    <size>158354</size>
+    <md5>548e0df7beef4b518ca3282b67314278</md5>
+    <crc32>666f2dc4</crc32>
+    <sha1>a418b4b41cb23e3dda1d192e022563c690604519</sha1>
+  </file>
+  <file name="Ring03.png" source="derivative">
+    <format>PNG</format>
+    <original>Ring03.wav</original>
+    <mtime>1678301764</mtime>
+    <size>27719</size>
+    <md5>345d6a043f297b03fb52967851f96578</md5>
+    <crc32>ce22eee1</crc32>
+    <sha1>1e7d569674271966b22421fd946aa2d5e990f1e6</sha1>
+  </file>
+  <file name="Ring03.wav" source="original">
+    <mtime>1678223824</mtime>
+    <size>826944</size>
+    <md5>4e75a40152866881d2dbc44801d385f0</md5>
+    <crc32>2739e8dd</crc32>
+    <sha1>9cea832e47acf921a4b266ab1118dab553634f47</sha1>
+    <format>WAVE</format>
+    <length>9.37</length>
+    <track>18</track>
+  </file>
+  <file name="Ring03_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Ring03.wav</original>
+    <mtime>1678303101</mtime>
+    <size>341875</size>
+    <md5>67b24cd53f41011cf459a5040b3ce1f9</md5>
+    <crc32>45825511</crc32>
+    <sha1>40cd0a83a3d6474f11f06a2b951fab50c17cd2a1</sha1>
+  </file>
+  <file name="Ring04.flac" source="derivative">
+    <format>Flac</format>
+    <original>Ring04.wav</original>
+    <mtime>1678301609</mtime>
+    <size>232920</size>
+    <md5>35f0507a3b684139c32f639e4474d8e3</md5>
+    <crc32>b2131ebf</crc32>
+    <sha1>aba67f9960b142153891147b5bd193fc2ec2c001</sha1>
+    <length>7.92</length>
+  </file>
+  <file name="Ring04.mp3" source="derivative">
+    <bitrate>120</bitrate>
+    <length>00:07</length>
+    <format>VBR MP3</format>
+    <original>Ring04.wav</original>
+    <mtime>1678224858</mtime>
+    <size>121323</size>
+    <md5>5fe32039d3130bf778cf9fc6d9850ec0</md5>
+    <crc32>8a17cd88</crc32>
+    <sha1>34160e88141fb4866c2b8ec01e2495ef06dd3fb2</sha1>
+  </file>
+  <file name="Ring04.png" source="derivative">
+    <format>PNG</format>
+    <original>Ring04.wav</original>
+    <mtime>1678302526</mtime>
+    <size>20037</size>
+    <md5>e0d9a13ea62e99f8ef400e630dc80f65</md5>
+    <crc32>bdc35a46</crc32>
+    <sha1>52063353744017b9c46dd2d125cac186bef325b0</sha1>
+  </file>
+  <file name="Ring04.wav" source="original">
+    <mtime>1678223827</mtime>
+    <size>698740</size>
+    <md5>a85cc59322f53e7e8f792a9e823e7b9c</md5>
+    <crc32>2f41a5eb</crc32>
+    <sha1>3ffc62dca62962d212cb8665bd427dcd4cb6bdd1</sha1>
+    <format>WAVE</format>
+    <length>7.92</length>
+    <track>19</track>
+  </file>
+  <file name="Ring04_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Ring04.wav</original>
+    <mtime>1678303228</mtime>
+    <size>320888</size>
+    <md5>b80b575274d110ef7e9314c72261e5f0</md5>
+    <crc32>0da4f26e</crc32>
+    <sha1>542f7267e907f0ffd41e31f54e8ac4d9afe6a1e3</sha1>
+  </file>
+  <file name="Ring05.flac" source="derivative">
+    <format>Flac</format>
+    <original>Ring05.wav</original>
+    <mtime>1678301327</mtime>
+    <size>564464</size>
+    <md5>e25f275b02616cadb4fff2df2cc7807d</md5>
+    <crc32>e4a404dd</crc32>
+    <sha1>1eda663011d6e0640d06baf512e6e042319889c6</sha1>
+    <length>12.84</length>
+  </file>
+  <file name="Ring05.mp3" source="derivative">
+    <bitrate>132</bitrate>
+    <length>00:12</length>
+    <format>VBR MP3</format>
+    <original>Ring05.wav</original>
+    <mtime>1678224229</mtime>
+    <size>213634</size>
+    <md5>f88d109ca454046b746a535c5e43513a</md5>
+    <crc32>884da735</crc32>
+    <sha1>a3f26ded6574c6730b9859d14cd84c395ee51c46</sha1>
+  </file>
+  <file name="Ring05.png" source="derivative">
+    <format>PNG</format>
+    <original>Ring05.wav</original>
+    <mtime>1678302303</mtime>
+    <size>25177</size>
+    <md5>d3327003303b29314982baa4f5be3444</md5>
+    <crc32>7308b2fa</crc32>
+    <sha1>e876347649859076c4eb43cf6924db075362deef</sha1>
+  </file>
+  <file name="Ring05.wav" source="original">
+    <mtime>1678223830</mtime>
+    <size>1132740</size>
+    <md5>f3b55bc341bd8039ffc125cee163b1dc</md5>
+    <crc32>c27caccf</crc32>
+    <sha1>1705da9d4be1478b06012dfbbe235a9167354e20</sha1>
+    <format>WAVE</format>
+    <length>12.84</length>
+    <track>20</track>
+  </file>
+  <file name="Ring05_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Ring05.wav</original>
+    <mtime>1678303212</mtime>
+    <size>372801</size>
+    <md5>1a42175a2e3c9b79e78b4000b5b3c17f</md5>
+    <crc32>1fb89ae2</crc32>
+    <sha1>f46b6bba63a6861a0ee9c23a287f53283f7abe67</sha1>
+  </file>
+  <file name="Ring06.flac" source="derivative">
+    <format>Flac</format>
+    <original>Ring06.wav</original>
+    <mtime>1678301665</mtime>
+    <size>78280</size>
+    <md5>dcca8bcb997303c36c62404c6ea4b138</md5>
+    <crc32>55b96fd3</crc32>
+    <sha1>db05e7c78e1ebf91bb43f73c4ad067584c4ee064</sha1>
+    <length>3.46</length>
+  </file>
+  <file name="Ring06.mp3" source="derivative">
+    <bitrate>115</bitrate>
+    <length>00:03</length>
+    <format>VBR MP3</format>
+    <original>Ring06.wav</original>
+    <mtime>1678224726</mtime>
+    <size>51752</size>
+    <md5>e1832a24b4b2f67cd5d3e4907d6a71eb</md5>
+    <crc32>1f941052</crc32>
+    <sha1>e78e708d95cffa95701df16ccd1190b4e07fd41a</sha1>
+  </file>
+  <file name="Ring06.png" source="derivative">
+    <format>PNG</format>
+    <original>Ring06.wav</original>
+    <mtime>1678302140</mtime>
+    <size>25786</size>
+    <md5>4ed303aaafc17308e411aa0d5107e27c</md5>
+    <crc32>cd98ca2c</crc32>
+    <sha1>8894900f9b5528609e35cbf95449cd00850ff8bf</sha1>
+  </file>
+  <file name="Ring06.wav" source="original">
+    <mtime>1678223832</mtime>
+    <size>305876</size>
+    <md5>62c8a7e378e9e677530528532bd2533c</md5>
+    <crc32>bdbef64a</crc32>
+    <sha1>7e2f5699eb3f0fbaa0e62fe8f6a425764d9f25a8</sha1>
+    <format>WAVE</format>
+    <length>3.46</length>
+    <track>21</track>
+  </file>
+  <file name="Ring06_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Ring06.wav</original>
+    <mtime>1678303220</mtime>
+    <size>264192</size>
+    <md5>753d1da3a5e06625bf8f5bb5d7302b05</md5>
+    <crc32>cbb47c7d</crc32>
+    <sha1>58fe396541470d549013dc72bc4890f029f971a1</sha1>
+  </file>
+  <file name="Ring07.flac" source="derivative">
+    <format>Flac</format>
+    <original>Ring07.wav</original>
+    <mtime>1678301705</mtime>
+    <size>147509</size>
+    <md5>3826296ce38cf73c7ac0487b9ca28dc1</md5>
+    <crc32>37bdd33b</crc32>
+    <sha1>7b824492736f73a221237565b1bb96fdd25dc8ba</sha1>
+    <length>5.6</length>
+  </file>
+  <file name="Ring07.mp3" source="derivative">
+    <bitrate>111</bitrate>
+    <length>00:05</length>
+    <format>VBR MP3</format>
+    <original>Ring07.wav</original>
+    <mtime>1678224906</mtime>
+    <size>79730</size>
+    <md5>4e3a4968794f1daf0bdea032df5d773d</md5>
+    <crc32>c8117a1e</crc32>
+    <sha1>478a20533d1f3e45555dcadfedf72035dfc013c5</sha1>
+  </file>
+  <file name="Ring07.png" source="derivative">
+    <format>PNG</format>
+    <original>Ring07.wav</original>
+    <mtime>1678302077</mtime>
+    <size>22348</size>
+    <md5>139939b3af9122c42b43ee6f3c46a449</md5>
+    <crc32>469b9720</crc32>
+    <sha1>16dc15a47c7b2eeb08dcc6e80dc6813988f76a7c</sha1>
+  </file>
+  <file name="Ring07.wav" source="original">
+    <mtime>1678223835</mtime>
+    <size>493948</size>
+    <md5>2559480156e9cddf65ed3125521b9922</md5>
+    <crc32>c247c093</crc32>
+    <sha1>fd515c4d819dd52fafda17114ad820d9a4a449b7</sha1>
+    <format>WAVE</format>
+    <length>5.6</length>
+    <track>22</track>
+  </file>
+  <file name="Ring07_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Ring07.wav</original>
+    <mtime>1678303147</mtime>
+    <size>304246</size>
+    <md5>cd77c9a434ee8d7518ed7b1e29baa8f2</md5>
+    <crc32>192b9082</crc32>
+    <sha1>2f8208a0ce5a521b324dcbdedf89c3af3399769e</sha1>
+  </file>
+  <file name="Ring08.flac" source="derivative">
+    <format>Flac</format>
+    <original>Ring08.wav</original>
+    <mtime>1678301673</mtime>
+    <size>489576</size>
+    <md5>e16b96ca47a4cd1eb08229e2852e8c21</md5>
+    <crc32>934ee671</crc32>
+    <sha1>9a2f34945beb88f63b7f70a1cf2b757b4ea2715d</sha1>
+    <length>11.29</length>
+  </file>
+  <file name="Ring08.mp3" source="derivative">
+    <bitrate>64</bitrate>
+    <length>00:25</length>
+    <format>VBR MP3</format>
+    <original>Ring08.wav</original>
+    <mtime>1678224967</mtime>
+    <size>206634</size>
+    <md5>19374af7eed9647ce1f74584b02fca9e</md5>
+    <crc32>aec53dce</crc32>
+    <sha1>fe7422dad0c555ffbedaff7fe06015cfee346213</sha1>
+  </file>
+  <file name="Ring08.png" source="derivative">
+    <format>PNG</format>
+    <original>Ring08.wav</original>
+    <mtime>1678301842</mtime>
+    <size>32241</size>
+    <md5>4c3146e1f1779871e7f5779a602f5380</md5>
+    <crc32>c377f1b6</crc32>
+    <sha1>7a41ce0f4582093327468314e168ba0fc56dda4d</sha1>
+  </file>
+  <file name="Ring08.wav" source="original">
+    <mtime>1678223842</mtime>
+    <size>995772</size>
+    <md5>9638531d74017e7afc1e92321412247b</md5>
+    <crc32>56f4b3c7</crc32>
+    <sha1>1e3ad85e62ad9dacbb4095d8c02e7948fbef0acb</sha1>
+    <format>WAVE</format>
+    <length>11.29</length>
+    <track>23</track>
+  </file>
+  <file name="Ring08_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Ring08.wav</original>
+    <mtime>1678303204</mtime>
+    <size>371715</size>
+    <md5>ff0d6c841e7e46e8032b158920bcaade</md5>
+    <crc32>b11ab43b</crc32>
+    <sha1>ed84d1034a8a8fc16c9184a8619f200c746cfa7c</sha1>
+  </file>
+  <file name="Ring09.flac" source="derivative">
+    <format>Flac</format>
+    <original>Ring09.wav</original>
+    <mtime>1678301492</mtime>
+    <size>208892</size>
+    <md5>33edb28f889faa23b3fc88086d028f3a</md5>
+    <crc32>1028d501</crc32>
+    <sha1>2911e0d082028bd97d64ef0305a0576d7b1d2b6a</sha1>
+    <length>9.85</length>
+  </file>
+  <file name="Ring09.mp3" source="derivative">
+    <bitrate>119</bitrate>
+    <length>00:09</length>
+    <format>VBR MP3</format>
+    <original>Ring09.wav</original>
+    <mtime>1678224807</mtime>
+    <size>149391</size>
+    <md5>6e19dd2eac242f53f7cc072069730e58</md5>
+    <crc32>895c6115</crc32>
+    <sha1>58743cae2f82934293ad66be09c28dee34efd0b0</sha1>
+  </file>
+  <file name="Ring09.png" source="derivative">
+    <format>PNG</format>
+    <original>Ring09.wav</original>
+    <mtime>1678302599</mtime>
+    <size>25705</size>
+    <md5>809bc13d3cb72e0e2d74a3fc8964e509</md5>
+    <crc32>009185db</crc32>
+    <sha1>bdaa63cccf005bb40c8755d0aceee6feb547073e</sha1>
+  </file>
+  <file name="Ring09.wav" source="original">
+    <mtime>1678223845</mtime>
+    <size>869328</size>
+    <md5>1a92d032432f475d2ed6312f015dea52</md5>
+    <crc32>a671f3b7</crc32>
+    <sha1>43f6dec70040c0036ffaabafda69a635b2c90031</sha1>
+    <format>WAVE</format>
+    <length>9.85</length>
+    <track>24</track>
+  </file>
+  <file name="Ring09_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Ring09.wav</original>
+    <mtime>1678303329</mtime>
+    <size>291624</size>
+    <md5>c16fc6fbce5e731cc5c8456b0ed67e81</md5>
+    <crc32>bf172df8</crc32>
+    <sha1>234d06a68fece0c0a471f6672152d2b8359033b2</sha1>
+  </file>
+  <file name="Ring10.flac" source="derivative">
+    <format>Flac</format>
+    <original>Ring10.wav</original>
+    <mtime>1678301617</mtime>
+    <size>249217</size>
+    <md5>648e431c1f7d62feef22eafefaf09216</md5>
+    <crc32>2f58123b</crc32>
+    <sha1>fda8f3f4ccf7c8cc0fc36b44c528cf747d5987a0</sha1>
+    <length>7.95</length>
+  </file>
+  <file name="Ring10.mp3" source="derivative">
+    <bitrate>133</bitrate>
+    <length>00:08</length>
+    <format>VBR MP3</format>
+    <original>Ring10.wav</original>
+    <mtime>1678224929</mtime>
+    <size>134821</size>
+    <md5>78f397e7060649c1d87a72557de53ec3</md5>
+    <crc32>3ef87ad1</crc32>
+    <sha1>bde52adfdcf4d3dadc7f8b32a21220c3ca42c8ec</sha1>
+  </file>
+  <file name="Ring10.png" source="derivative">
+    <format>PNG</format>
+    <original>Ring10.wav</original>
+    <mtime>1678301970</mtime>
+    <size>21963</size>
+    <md5>f57a0d7b3032d4c316ac9269af893866</md5>
+    <crc32>f2832708</crc32>
+    <sha1>bd71aeca7f1ba941c36365c3900d57dc17163a09</sha1>
+  </file>
+  <file name="Ring10.wav" source="original">
+    <mtime>1678223848</mtime>
+    <size>701708</size>
+    <md5>5bd586eeecff721ca055b14fde4fa533</md5>
+    <crc32>28128db3</crc32>
+    <sha1>c988295536020226fd4456d6060789c7f19c5299</sha1>
+    <format>WAVE</format>
+    <length>7.95</length>
+    <track>25</track>
+  </file>
+  <file name="Ring10_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Ring10.wav</original>
+    <mtime>1678303313</mtime>
+    <size>337042</size>
+    <md5>53f38b676499f22ff4a8907680ab8f4a</md5>
+    <crc32>dff77990</crc32>
+    <sha1>12672bb7f0d135a2f0da8019bea961c3155187a2</sha1>
+  </file>
+  <file name="Speech Disambiguation.flac" source="derivative">
+    <format>Flac</format>
+    <original>Speech Disambiguation.wav</original>
+    <mtime>1678301697</mtime>
+    <size>69795</size>
+    <md5>3c313dd7d9d3c3c3f2c7ad6631816e4a</md5>
+    <crc32>54346aff</crc32>
+    <sha1>e1c4a3bad4fc4afa22c87f71fba8051763c6a554</sha1>
+    <length>0.87</length>
+  </file>
+  <file name="Speech Disambiguation.mp3" source="derivative">
+    <bitrate>192</bitrate>
+    <length>00:00</length>
+    <format>VBR MP3</format>
+    <original>Speech Disambiguation.wav</original>
+    <mtime>1678224670</mtime>
+    <size>23016</size>
+    <md5>a3972e8c66f51044c1dd367bfc978608</md5>
+    <crc32>2cf2dc64</crc32>
+    <sha1>a487a0736eb312f0e8ee93b031d004495fcf177b</sha1>
+  </file>
+  <file name="Speech Disambiguation.png" source="derivative">
+    <format>PNG</format>
+    <original>Speech Disambiguation.wav</original>
+    <mtime>1678301931</mtime>
+    <size>40576</size>
+    <md5>42ee145208a5b1dfaa25386822127955</md5>
+    <crc32>18b65db3</crc32>
+    <sha1>5399ea4f365758ba21cd3ef2fc44dc406342f2a1</sha1>
+  </file>
+  <file name="Speech Disambiguation.wav" source="original">
+    <mtime>1678223762</mtime>
+    <size>153644</size>
+    <md5>efec6e62cbfdcbd1891889118b591b1b</md5>
+    <crc32>3cb0c06a</crc32>
+    <sha1>a23e6672af95ad50c593aaf2e814a30a5cefc26f</sha1>
+    <format>WAVE</format>
+    <length>0.87</length>
+    <track>27</track>
+  </file>
+  <file name="Speech Disambiguation_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Speech Disambiguation.wav</original>
+    <mtime>1678303030</mtime>
+    <size>298391</size>
+    <md5>757e9aa88ab5c20fdda3da92c89b1957</md5>
+    <crc32>efabc8da</crc32>
+    <sha1>cd3f353f59b471aeef1683ede0a306e91f58f421</sha1>
+  </file>
+  <file name="Speech Misrecognition.flac" source="derivative">
+    <format>Flac</format>
+    <original>Speech Misrecognition.wav</original>
+    <mtime>1678301712</mtime>
+    <size>21466</size>
+    <md5>9eb70e5e9016d61ac175cc7f5209794c</md5>
+    <crc32>191b7202</crc32>
+    <sha1>34f253a41381fc1d258bd87cef01b6fd1af21db5</sha1>
+    <length>0.4</length>
+  </file>
+  <file name="Speech Misrecognition.mp3" source="derivative">
+    <bitrate>118</bitrate>
+    <length>00:00</length>
+    <format>VBR MP3</format>
+    <original>Speech Misrecognition.wav</original>
+    <mtime>1678224894</mtime>
+    <size>7655</size>
+    <md5>15cec1da77a596fcb3564912fdffabc3</md5>
+    <crc32>9a9a905d</crc32>
+    <sha1>0de4a9ec8a5a1dea8032d860241739fd5ae0e19d</sha1>
+  </file>
+  <file name="Speech Misrecognition.png" source="derivative">
+    <format>PNG</format>
+    <original>Speech Misrecognition.wav</original>
+    <mtime>1678302021</mtime>
+    <size>18154</size>
+    <md5>ae07a52e737e7c006620b18acd217fe5</md5>
+    <crc32>b70782f0</crc32>
+    <sha1>2d8ee720830bff9c4eecdefbc4661a99e68bf3e2</sha1>
+  </file>
+  <file name="Speech Misrecognition.wav" source="original">
+    <mtime>1678223765</mtime>
+    <size>71212</size>
+    <md5>42da0c1985abf02dc0328eff8a76e435</md5>
+    <crc32>f59bee0e</crc32>
+    <sha1>56caf922efb6b040c2a1776e3a5972afa4afb4b0</sha1>
+    <format>WAVE</format>
+    <length>0.4</length>
+    <track>28</track>
+  </file>
+  <file name="Speech Misrecognition_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Speech Misrecognition.wav</original>
+    <mtime>1678303014</mtime>
+    <size>178317</size>
+    <md5>2d636afd5fc3d031f7646b46dee3d353</md5>
+    <crc32>2f9d0009</crc32>
+    <sha1>3ad6c06f3d4f532bd2c80790e3c1638044d708f9</sha1>
+  </file>
+  <file name="Speech Off.flac" source="derivative">
+    <format>Flac</format>
+    <original>Speech Off.wav</original>
+    <mtime>1678301720</mtime>
+    <size>74523</size>
+    <md5>3fdb715bf25d66e5d8ed008c3d74c3c3</md5>
+    <crc32>9f43684f</crc32>
+    <sha1>86317f10b0788e0a3417bc50ad3894bdf01989b4</sha1>
+    <length>1.07</length>
+  </file>
+  <file name="Speech Off.mp3" source="derivative">
+    <bitrate>172</bitrate>
+    <length>00:01</length>
+    <format>VBR MP3</format>
+    <original>Speech Off.wav</original>
+    <mtime>1678224871</mtime>
+    <size>24712</size>
+    <md5>260af5ce2cb98aa866167f7144f23870</md5>
+    <crc32>96342c07</crc32>
+    <sha1>947fb2fc9d784ba9ed18bccbda946246a9e4d83e</sha1>
+  </file>
+  <file name="Speech Off.png" source="derivative">
+    <format>PNG</format>
+    <original>Speech Off.wav</original>
+    <mtime>1678302089</mtime>
+    <size>14040</size>
+    <md5>5aa57a994d28f499546179fcfab5edb8</md5>
+    <crc32>152e6b2c</crc32>
+    <sha1>459d476310a413fa19472c381c4879cd0a2145c9</sha1>
+  </file>
+  <file name="Speech Off.wav" source="original">
+    <mtime>1678223768</mtime>
+    <size>188460</size>
+    <md5>373639729356e0bc67dc541646ac0fb9</md5>
+    <crc32>a3494d9d</crc32>
+    <sha1>a07cf27382e1f4de87f23bb286c25a03e5db5314</sha1>
+    <format>WAVE</format>
+    <length>1.07</length>
+    <track>29</track>
+  </file>
+  <file name="Speech Off_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Speech Off.wav</original>
+    <mtime>1678302958</mtime>
+    <size>317719</size>
+    <md5>c0d28f181be55ff55d0496418c8c3ab6</md5>
+    <crc32>d7a626e9</crc32>
+    <sha1>78141da30b42b60ce6ecdd1400c2b220adb6090f</sha1>
+  </file>
+  <file name="Speech On.flac" source="derivative">
+    <format>Flac</format>
+    <original>Speech On.wav</original>
+    <mtime>1678301625</mtime>
+    <size>62586</size>
+    <md5>029813a085738b850e41d263e872e34a</md5>
+    <crc32>959ff6de</crc32>
+    <sha1>1fc328545ee3b92bcfda87461ed95484d5ae57f2</sha1>
+    <length>0.84</length>
+  </file>
+  <file name="Speech On.mp3" source="derivative">
+    <bitrate>186</bitrate>
+    <length>00:00</length>
+    <format>VBR MP3</format>
+    <original>Speech On.wav</original>
+    <mtime>1678224835</mtime>
+    <size>21162</size>
+    <md5>0770591dbb7f232f6662fe325723fe85</md5>
+    <crc32>51fc616d</crc32>
+    <sha1>7ae04db6c43ea4b675d6754d689f8562df797c07</sha1>
+  </file>
+  <file name="Speech On.png" source="derivative">
+    <format>PNG</format>
+    <original>Speech On.wav</original>
+    <mtime>1678302165</mtime>
+    <size>19547</size>
+    <md5>e2e3da7bcdbcfceda2b8b4e228c2a72f</md5>
+    <crc32>2a52efa2</crc32>
+    <sha1>addc386df8cff6ff64c36e306ddba69637b5fc49</sha1>
+  </file>
+  <file name="Speech On.wav" source="original">
+    <mtime>1678223770</mtime>
+    <size>147500</size>
+    <md5>7b681306dd7bc054aa472f25153ddf90</md5>
+    <crc32>4858cfea</crc32>
+    <sha1>9b787ef14dc3029747f153699e5629f87d1f7bb9</sha1>
+    <format>WAVE</format>
+    <length>0.84</length>
+    <track>30</track>
+  </file>
+  <file name="Speech On_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Speech On.wav</original>
+    <mtime>1678303006</mtime>
+    <size>301479</size>
+    <md5>9c4d662a44e46918f55f73f00a9cb30e</md5>
+    <crc32>a86ea08f</crc32>
+    <sha1>d2ad19681e929f4f022eb7cef8d0cabb6b595327</sha1>
+  </file>
+  <file name="Speech Sleep.flac" source="derivative">
+    <format>Flac</format>
+    <original>Speech Sleep.wav</original>
+    <mtime>1678301454</mtime>
+    <size>59913</size>
+    <md5>abd9820aecccc6effae9384b9fee63e9</md5>
+    <crc32>15ac3716</crc32>
+    <sha1>69cd8b096afb4f4632a7ed2a7add6122ccacd2b4</sha1>
+    <length>0.73</length>
+  </file>
+  <file name="Speech Sleep.mp3" source="derivative">
+    <bitrate>195</bitrate>
+    <length>00:00</length>
+    <format>VBR MP3</format>
+    <original>Speech Sleep.wav</original>
+    <mtime>1678224819</mtime>
+    <size>19541</size>
+    <md5>ffc18352cd801b27369e107b17bf7a20</md5>
+    <crc32>c89da65e</crc32>
+    <sha1>1b164ef668464b41213545a993462ac6471f8918</sha1>
+  </file>
+  <file name="Speech Sleep.png" source="derivative">
+    <format>PNG</format>
+    <original>Speech Sleep.wav</original>
+    <mtime>1678302245</mtime>
+    <size>20337</size>
+    <md5>74f829f6d0376dc8f5b3b468ac71f9ac</md5>
+    <crc32>29be2bc5</crc32>
+    <sha1>33cfc3b8308beb7efee95c771816bbffd3ee05e7</sha1>
+  </file>
+  <file name="Speech Sleep.wav" source="original">
+    <mtime>1678223773</mtime>
+    <size>128812</size>
+    <md5>12b0c2995097942c6d02357254cc20f7</md5>
+    <crc32>2fd4cea7</crc32>
+    <sha1>2bafac2205df9acb91d2ea29a42982a34a90e2f1</sha1>
+    <format>WAVE</format>
+    <length>0.73</length>
+    <track>31</track>
+  </file>
+  <file name="Speech Sleep_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Speech Sleep.wav</original>
+    <mtime>1678302998</mtime>
+    <size>297768</size>
+    <md5>2edeba0c486be428928cb8af827fd663</md5>
+    <crc32>b3dec3b2</crc32>
+    <sha1>3ac1145ee213d2f1547a9530c6c4f5b231afe220</sha1>
+  </file>
+  <file name="Windows Background.flac" source="derivative">
+    <format>Flac</format>
+    <original>Windows Background.wav</original>
+    <mtime>1678301634</mtime>
+    <size>46511</size>
+    <md5>5aee3a60bfd326fed631629e927a415a</md5>
+    <crc32>cffe02ac</crc32>
+    <sha1>74e7fcbbd39355fce2db5766a848f0b0b0ee1296</sha1>
+    <length>1.29</length>
+  </file>
+  <file name="Windows Background.mp3" source="derivative">
+    <bitrate>77.1</bitrate>
+    <length>00:01</length>
+    <format>VBR MP3</format>
+    <original>Windows Background.wav</original>
+    <mtime>1678224696</mtime>
+    <size>13836</size>
+    <md5>f4d230adc81c7895d2209f0ff264e04e</md5>
+    <crc32>3c4a4dd6</crc32>
+    <sha1>7a89703cd55eb1e76ca3a7a1f150054e2361caf6</sha1>
+  </file>
+  <file name="Windows Background.png" source="derivative">
+    <format>PNG</format>
+    <original>Windows Background.wav</original>
+    <mtime>1678302722</mtime>
+    <size>32607</size>
+    <md5>36bbb074dcfce3c944d32a06afb3dc28</md5>
+    <crc32>d4a47a96</crc32>
+    <sha1>fb1abf02266517020a222bc4ab032ef2371dc170</sha1>
+  </file>
+  <file name="Windows Background.wav" source="original">
+    <mtime>1678223858</mtime>
+    <size>247624</size>
+    <md5>ebf30ccbd7bdccbd53cd369d4ae70c9e</md5>
+    <crc32>5236736a</crc32>
+    <sha1>3be3c08f296eea7b0a27266168d57cb30dc1ae20</sha1>
+    <format>WAVE</format>
+    <length>1.29</length>
+    <track>33</track>
+  </file>
+  <file name="Windows Background_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Windows Background.wav</original>
+    <mtime>1678302982</mtime>
+    <size>167332</size>
+    <md5>6b309614caa6485be58f79b204e31351</md5>
+    <crc32>308c3ece</crc32>
+    <sha1>856486c6e9ecd0253863d5f4b7deaabbb51abc09</sha1>
+  </file>
+  <file name="Windows Balloon.flac" source="derivative">
+    <format>Flac</format>
+    <original>Windows Balloon.wav</original>
+    <mtime>1678301649</mtime>
+    <size>37026</size>
+    <md5>536f18e21a570fadff2c527ba14fb3f4</md5>
+    <crc32>c874bf2a</crc32>
+    <sha1>7642541ca3c3cd05442afe8e2df9cc22e1c0cb64</sha1>
+    <length>1.01</length>
+  </file>
+  <file name="Windows Balloon.mp3" source="derivative">
+    <bitrate>103</bitrate>
+    <length>00:01</length>
+    <format>VBR MP3</format>
+    <original>Windows Balloon.wav</original>
+    <mtime>1678224979</mtime>
+    <size>14512</size>
+    <md5>a2d8c838bdb318ae73c25db9fb9812ad</md5>
+    <crc32>2a2f218e</crc32>
+    <sha1>40a0861f79ecbda6cd9ca68b52753b2514ec32fd</sha1>
+  </file>
+  <file name="Windows Balloon.png" source="derivative">
+    <format>PNG</format>
+    <original>Windows Balloon.wav</original>
+    <mtime>1678302772</mtime>
+    <size>22841</size>
+    <md5>973fb695fd77458a2041dc57f72fdb99</md5>
+    <crc32>213302f8</crc32>
+    <sha1>bd1b694541e8b1d91f08e55635e7eeba35c8d6f7</sha1>
+  </file>
+  <file name="Windows Balloon.wav" source="original">
+    <mtime>1678223861</mtime>
+    <size>178220</size>
+    <md5>eaac3f899d52f9405f808387a4a08c2e</md5>
+    <crc32>fc72a760</crc32>
+    <sha1>541d0945caf706fc999b3caad6bd5f1bdf1acc3d</sha1>
+    <format>WAVE</format>
+    <length>1.01</length>
+    <track>34</track>
+  </file>
+  <file name="Windows Balloon_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Windows Balloon.wav</original>
+    <mtime>1678302974</mtime>
+    <size>216864</size>
+    <md5>1bb622237ce0f10f66bc2b9ed4581f99</md5>
+    <crc32>2832d26d</crc32>
+    <sha1>af0e46d69dd4393123482a7cdb0d3f5e79c8b57a</sha1>
+  </file>
+  <file name="Windows Battery Critical.flac" source="derivative">
+    <format>Flac</format>
+    <original>Windows Battery Critical.wav</original>
+    <mtime>1678301657</mtime>
+    <size>44659</size>
+    <md5>979b22818f54270cae716715d3d6eda7</md5>
+    <crc32>37f19b44</crc32>
+    <sha1>38443ca12b4b253bdb99780537c8aa623ef77dfd</sha1>
+    <length>1.22</length>
+  </file>
+  <file name="Windows Battery Critical.mp3" source="derivative">
+    <bitrate>111</bitrate>
+    <length>00:01</length>
+    <format>VBR MP3</format>
+    <original>Windows Battery Critical.wav</original>
+    <mtime>1678224334</mtime>
+    <size>18591</size>
+    <md5>25fb49bf690915b29b22c0ed0e4cdbcc</md5>
+    <crc32>f5ecd405</crc32>
+    <sha1>a1b1562ebb7b35975db6a8d6b722e91a4bdd0873</sha1>
+  </file>
+  <file name="Windows Battery Critical.png" source="derivative">
+    <format>PNG</format>
+    <original>Windows Battery Critical.wav</original>
+    <mtime>1678302427</mtime>
+    <size>27793</size>
+    <md5>2dd1b9d5f3ca02afb86d4fd00fa83b9a</md5>
+    <crc32>d9fe5f70</crc32>
+    <sha1>c3d916ffc4708ce27d7c0bec1e3cbda8151ea42a</sha1>
+  </file>
+  <file name="Windows Battery Critical.wav" source="original">
+    <mtime>1678223863</mtime>
+    <size>214828</size>
+    <md5>86081f09e2c66da799caf2f6026c8404</md5>
+    <crc32>c3d16b51</crc32>
+    <sha1>6576008e4fccda1f5fb5a53cdd9fcf2148aacd3c</sha1>
+    <format>WAVE</format>
+    <length>1.22</length>
+    <track>35</track>
+  </file>
+  <file name="Windows Battery Critical_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Windows Battery Critical.wav</original>
+    <mtime>1678303321</mtime>
+    <size>223167</size>
+    <md5>26da399117bda8a3f63c1dd62c7fcf6d</md5>
+    <crc32>bbdf5025</crc32>
+    <sha1>f08968812aa424fd2b843a0d3af44d94683f4bcb</sha1>
+  </file>
+  <file name="Windows Battery Low.flac" source="derivative">
+    <format>Flac</format>
+    <original>Windows Battery Low.wav</original>
+    <mtime>1678301530</mtime>
+    <size>40071</size>
+    <md5>5f664311f43f90b51af3589d7fb33860</md5>
+    <crc32>75dc0346</crc32>
+    <sha1>cb649836e283e76a44041204ea7297c041ca7c93</sha1>
+    <length>1.02</length>
+  </file>
+  <file name="Windows Battery Low.mp3" source="derivative">
+    <bitrate>116</bitrate>
+    <length>00:01</length>
+    <format>VBR MP3</format>
+    <original>Windows Battery Low.wav</original>
+    <mtime>1678224359</mtime>
+    <size>16215</size>
+    <md5>4ea172d73a89dec8c1e8863c37e08a63</md5>
+    <crc32>ac5b0eb3</crc32>
+    <sha1>5b29a711818054b804bfc5acf86464d49a371813</sha1>
+  </file>
+  <file name="Windows Battery Low.png" source="derivative">
+    <format>PNG</format>
+    <original>Windows Battery Low.wav</original>
+    <mtime>1678301803</mtime>
+    <size>29099</size>
+    <md5>b6fc6da70a5bcfcce629a994460f0a00</md5>
+    <crc32>55cc0a7b</crc32>
+    <sha1>38c87a257b30c65f2cef7c83b1bbcdbd6b32a702</sha1>
+  </file>
+  <file name="Windows Battery Low.wav" source="original">
+    <mtime>1678223865</mtime>
+    <size>179500</size>
+    <md5>42ee6c2e8c147e61103d7d30e3d2eade</md5>
+    <crc32>e6b4fb23</crc32>
+    <sha1>6876c906a0a471833641e7f9b2b65b3b211f8cd1</sha1>
+    <format>WAVE</format>
+    <length>1.02</length>
+    <track>36</track>
+  </file>
+  <file name="Windows Battery Low_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Windows Battery Low.wav</original>
+    <mtime>1678302807</mtime>
+    <size>223627</size>
+    <md5>75e8adee0b2d53c4f98d8bc8531cbe76</md5>
+    <crc32>766e13d9</crc32>
+    <sha1>d99514d7811beb02d4ffc65632ca9f2a1595ec56</sha1>
+  </file>
+  <file name="Windows Critical Stop.flac" source="derivative">
+    <format>Flac</format>
+    <original>Windows Critical Stop.wav</original>
+    <mtime>1678301546</mtime>
+    <size>58476</size>
+    <md5>6841d0acff4bbc57bb0f4ea431c2a6a8</md5>
+    <crc32>db229309</crc32>
+    <sha1>62f31ab7c348f9349a19147e28268975a2d2b512</sha1>
+    <length>0.9</length>
+  </file>
+  <file name="Windows Critical Stop.mp3" source="derivative">
+    <bitrate>161</bitrate>
+    <length>00:00</length>
+    <format>VBR MP3</format>
+    <original>Windows Critical Stop.wav</original>
+    <mtime>1678224134</mtime>
+    <size>20058</size>
+    <md5>61e15744ded7def5ed518653b19c358e</md5>
+    <crc32>58d40a25</crc32>
+    <sha1>287e5086d40e43064143233cc5f4bcfbe40a0cca</sha1>
+  </file>
+  <file name="Windows Critical Stop.png" source="derivative">
+    <format>PNG</format>
+    <original>Windows Critical Stop.wav</original>
+    <mtime>1678301752</mtime>
+    <size>37642</size>
+    <md5>a8012851c57a8b96799d1cd162a3beaa</md5>
+    <crc32>5d939962</crc32>
+    <sha1>9059263ae2893696551a6160cfe0fd9aac76f9a3</sha1>
+  </file>
+  <file name="Windows Critical Stop.wav" source="original">
+    <mtime>1678223868</mtime>
+    <size>159276</size>
+    <md5>92d195fa7a679783f829c4a11d55ceea</md5>
+    <crc32>23010020</crc32>
+    <sha1>7ddf9af6e7519e803dcf88275e9fba8672f70507</sha1>
+    <format>WAVE</format>
+    <length>0.9</length>
+    <track>37</track>
+  </file>
+  <file name="Windows Critical Stop_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Windows Critical Stop.wav</original>
+    <mtime>1678303062</mtime>
+    <size>279514</size>
+    <md5>50731285963d0221cb400be2f7185083</md5>
+    <crc32>994e6442</crc32>
+    <sha1>44b71331b1d59bd345f8990edfc83dfac493c879</sha1>
+  </file>
+  <file name="Windows Default.flac" source="derivative">
+    <format>Flac</format>
+    <original>Windows Default.wav</original>
+    <mtime>1678301562</mtime>
+    <size>21708</size>
+    <md5>48d18c2fc469b6a4d53169f5f3bfe830</md5>
+    <crc32>8422548c</crc32>
+    <sha1>e35c4b0646fead668c8a603684dcaca505019429</sha1>
+    <length>0.41</length>
+  </file>
+  <file name="Windows Default.mp3" source="derivative">
+    <bitrate>122</bitrate>
+    <length>00:00</length>
+    <format>VBR MP3</format>
+    <original>Windows Default.wav</original>
+    <mtime>1678224086</mtime>
+    <size>7888</size>
+    <md5>5f9779820ffc9e9347cecff4fd06fd57</md5>
+    <crc32>8ff86427</crc32>
+    <sha1>c104cd358a13451ba3e71b943f7082f0f146bfb8</sha1>
+  </file>
+  <file name="Windows Default.png" source="derivative">
+    <format>PNG</format>
+    <original>Windows Default.wav</original>
+    <mtime>1678301907</mtime>
+    <size>20062</size>
+    <md5>605a237df366a68184542ecd407bd286</md5>
+    <crc32>be1c34de</crc32>
+    <sha1>86e9d22074f0c577c0b3ee9b5d90df23f0ce5fec</sha1>
+  </file>
+  <file name="Windows Default.wav" source="original">
+    <mtime>1678223870</mtime>
+    <size>72620</size>
+    <md5>5fecc63637be667230f602c8a4e1b840</md5>
+    <crc32>b112f0df</crc32>
+    <sha1>af99e982bd1ac3a71690e6b9c407ab49d87bc310</sha1>
+    <format>WAVE</format>
+    <length>0.41</length>
+    <track>38</track>
+  </file>
+  <file name="Windows Default_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Windows Default.wav</original>
+    <mtime>1678302911</mtime>
+    <size>175291</size>
+    <md5>b5d24d25de2ffd55aa13273997e31d93</md5>
+    <crc32>753dfa29</crc32>
+    <sha1>866b619ec6e4cca8386b90867798feceb7383b05</sha1>
+  </file>
+  <file name="Windows Ding.flac" source="derivative">
+    <format>Flac</format>
+    <original>Windows Ding.wav</original>
+    <mtime>1678301570</mtime>
+    <size>58270</size>
+    <md5>1b91d43aae2d2a3ab1d87146b38de272</md5>
+    <crc32>c587adc5</crc32>
+    <sha1>b3143388a278ca7900c1d737b567cf91ccdcca91</sha1>
+    <length>1.09</length>
+  </file>
+  <file name="Windows Ding.mp3" source="derivative">
+    <bitrate>147</bitrate>
+    <length>00:01</length>
+    <format>VBR MP3</format>
+    <original>Windows Ding.wav</original>
+    <mtime>1678224146</mtime>
+    <size>21783</size>
+    <md5>e857302f3a3cface5b46f49c6d811277</md5>
+    <crc32>1224f13f</crc32>
+    <sha1>65640fe76aa1d04969a0c8201ece349f3bc286b5</sha1>
+  </file>
+  <file name="Windows Ding.png" source="derivative">
+    <format>PNG</format>
+    <original>Windows Ding.wav</original>
+    <mtime>1678302009</mtime>
+    <size>23910</size>
+    <md5>40a19e11d24d5f0cee2075e9d6f54d86</md5>
+    <crc32>c399f13e</crc32>
+    <sha1>bcd45dd3fe4056621e9f0cb90ccd9f11befabc21</sha1>
+  </file>
+  <file name="Windows Ding.wav" source="original">
+    <mtime>1678223873</mtime>
+    <size>191788</size>
+    <md5>c43f538f4f8792ffefbdc3c327de5431</md5>
+    <crc32>897d884d</crc32>
+    <sha1>b5ba0b52fa57810136d47a5fbcd952a45e0506f9</sha1>
+    <format>WAVE</format>
+    <length>1.09</length>
+    <track>39</track>
+  </file>
+  <file name="Windows Ding_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Windows Ding.wav</original>
+    <mtime>1678302927</mtime>
+    <size>270355</size>
+    <md5>2e8120632913dafbbca38248f8265957</md5>
+    <crc32>9d06641c</crc32>
+    <sha1>1efe4016bada3a01cec82e017be1b01351f36671</sha1>
+  </file>
+  <file name="Windows Error.flac" source="derivative">
+    <format>Flac</format>
+    <original>Windows Error.wav</original>
+    <mtime>1678301586</mtime>
+    <size>41076</size>
+    <md5>ca8ebd047c2dfe111554426b6b4db42a</md5>
+    <crc32>045709f3</crc32>
+    <sha1>634a66cdfb97d85e283be1111c0bec2b77ce866f</sha1>
+    <length>0.97</length>
+  </file>
+  <file name="Windows Error.mp3" source="derivative">
+    <bitrate>118</bitrate>
+    <length>00:01</length>
+    <format>VBR MP3</format>
+    <original>Windows Error.wav</original>
+    <mtime>1678224461</mtime>
+    <size>16139</size>
+    <md5>88f4534e1156089633402fc355a1b3c8</md5>
+    <crc32>3133930b</crc32>
+    <sha1>d7ddba8db866820041d5de4fdf63d7b8fd32caed</sha1>
+  </file>
+  <file name="Windows Error.png" source="derivative">
+    <format>PNG</format>
+    <original>Windows Error.wav</original>
+    <mtime>1678302366</mtime>
+    <size>31180</size>
+    <md5>57b718bb28d56b9ca28f2fdb94c5ab00</md5>
+    <crc32>66fe1a4b</crc32>
+    <sha1>d3fd142fd60428f715d1e1dd0bf5d1faa95f752e</sha1>
+  </file>
+  <file name="Windows Error.wav" source="original">
+    <mtime>1678223875</mtime>
+    <size>171564</size>
+    <md5>022ebfe0634350aa25c4083d7c394af1</md5>
+    <crc32>b3840717</crc32>
+    <sha1>82518572b899d8cee124c3fbdc6b0b278e7793cb</sha1>
+    <format>WAVE</format>
+    <length>0.97</length>
+    <track>40</track>
+  </file>
+  <file name="Windows Error_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Windows Error.wav</original>
+    <mtime>1678303077</mtime>
+    <size>196039</size>
+    <md5>84fd4cbf70ccd73bd1eff12c5a3e0421</md5>
+    <crc32>a33f8a05</crc32>
+    <sha1>2efc214d00a3f833559df7fee08e8a8d195d415a</sha1>
+  </file>
+  <file name="Windows Exclamation.flac" source="derivative">
+    <format>Flac</format>
+    <original>Windows Exclamation.wav</original>
+    <mtime>1678301182</mtime>
+    <size>58098</size>
+    <md5>cb25fed8f673d3180f976e341c3b50c0</md5>
+    <crc32>835e299b</crc32>
+    <sha1>2f876f26b3db98dccc80671b61e610bbfd189d29</sha1>
+    <length>1.36</length>
+  </file>
+  <file name="Windows Exclamation.mp3" source="derivative">
+    <bitrate>129</bitrate>
+    <length>00:01</length>
+    <format>VBR MP3</format>
+    <original>Windows Exclamation.wav</original>
+    <mtime>1678224270</mtime>
+    <size>23786</size>
+    <md5>b261d3a746ff8088ef1c556d8fbc28c8</md5>
+    <crc32>5c4673f9</crc32>
+    <sha1>ac0301f266241ee3e9a26a26fdf3dfad59b53e28</sha1>
+  </file>
+  <file name="Windows Exclamation.png" source="derivative">
+    <format>PNG</format>
+    <original>Windows Exclamation.wav</original>
+    <mtime>1678302201</mtime>
+    <size>26490</size>
+    <md5>ee3522ad5e75f2bcd04fd472ab78e695</md5>
+    <crc32>bd34a1c1</crc32>
+    <sha1>83a7bb6e36832e6e899cc5ac58d6b1d3fd10cee6</sha1>
+  </file>
+  <file name="Windows Exclamation.wav" source="original">
+    <mtime>1678223878</mtime>
+    <size>240284</size>
+    <md5>138500e5ac33bdd08aac6bc866af2f1c</md5>
+    <crc32>d19e68ec</crc32>
+    <sha1>3ccf9d413cde36f792f4734f03f3832b46094e04</sha1>
+    <format>WAVE</format>
+    <length>1.36</length>
+    <track>41</track>
+  </file>
+  <file name="Windows Exclamation_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Windows Exclamation.wav</original>
+    <mtime>1678302950</mtime>
+    <size>268740</size>
+    <md5>ae6cae838666d1feb7b87f99315a1c75</md5>
+    <crc32>3f62f02a</crc32>
+    <sha1>f138f9224385b88b0cb630d3e886e1dc3399e25c</sha1>
+  </file>
+  <file name="Windows Feed Discovered.flac" source="derivative">
+    <format>Flac</format>
+    <original>Windows Feed Discovered.wav</original>
+    <mtime>1678301522</mtime>
+    <size>12706</size>
+    <md5>82b2d9dfea56eab34f60711bff21d8a6</md5>
+    <crc32>2784aabe</crc32>
+    <sha1>5029882d16f7bee110925232d7403aec3c7b0e15</sha1>
+    <length>0.11</length>
+  </file>
+  <file name="Windows Feed Discovered.mp3" source="derivative">
+    <bitrate>186</bitrate>
+    <length>00:00</length>
+    <format>VBR MP3</format>
+    <original>Windows Feed Discovered.wav</original>
+    <mtime>1678224496</mtime>
+    <size>4759</size>
+    <md5>8805978190002a75fb14dfe28babf8ed</md5>
+    <crc32>3a27b5cb</crc32>
+    <sha1>40d0fbb7a2b5c061b94a2ab839508af7099c3aa5</sha1>
+  </file>
+  <file name="Windows Feed Discovered.png" source="derivative">
+    <format>PNG</format>
+    <original>Windows Feed Discovered.wav</original>
+    <mtime>1678302784</mtime>
+    <size>49178</size>
+    <md5>c27a0615f6e0527a8d6183bd1f99d5f9</md5>
+    <crc32>8ceca205</crc32>
+    <sha1>76f74b806f59679866c0198c5231ff2d85743a18</sha1>
+  </file>
+  <file name="Windows Feed Discovered.wav" source="original">
+    <mtime>1678223735</mtime>
+    <size>19884</size>
+    <md5>f56a39813e5c699722ce510793b8f056</md5>
+    <crc32>d6ea5585</crc32>
+    <sha1>dd1524bd1863fa326652681740c496218ea1e75f</sha1>
+    <format>WAVE</format>
+    <length>0.11</length>
+    <track>42</track>
+  </file>
+  <file name="Windows Feed Discovered_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Windows Feed Discovered.wav</original>
+    <mtime>1678303361</mtime>
+    <size>107341</size>
+    <md5>b9e6bcb900d48c2ce460250125f4dc09</md5>
+    <crc32>6ada06e0</crc32>
+    <sha1>ebb2860eb0d3734f6ed8f3318fdbddab6f5d2ed5</sha1>
+  </file>
+  <file name="Windows Foreground.flac" source="derivative">
+    <format>Flac</format>
+    <original>Windows Foreground.wav</original>
+    <mtime>1678301681</mtime>
+    <size>55711</size>
+    <md5>3287584aff2be13911a86ebf1a2d6340</md5>
+    <crc32>f5e9cee8</crc32>
+    <sha1>c484c179a35457db7c29bf8a9a8317347dd576ec</sha1>
+    <length>2.11</length>
+  </file>
+  <file name="Windows Foreground.mp3" source="derivative">
+    <bitrate>63.2</bitrate>
+    <length>00:02</length>
+    <format>VBR MP3</format>
+    <original>Windows Foreground.wav</original>
+    <mtime>1678224073</mtime>
+    <size>17992</size>
+    <md5>5502da801f145d76c6c03598745a935b</md5>
+    <crc32>fd9bdb09</crc32>
+    <sha1>39b065e00a2de23943803322b7b1d3a2436e30d3</sha1>
+  </file>
+  <file name="Windows Foreground.png" source="derivative">
+    <format>PNG</format>
+    <original>Windows Foreground.wav</original>
+    <mtime>1678302760</mtime>
+    <size>18908</size>
+    <md5>4b5b2fbea2c6e7abf5c0a9eacaaf89a7</md5>
+    <crc32>a7fd8ae1</crc32>
+    <sha1>9c59311ac0eb8444e5c7e10666bf3efe387d5cee</sha1>
+  </file>
+  <file name="Windows Foreground.wav" source="original">
+    <mtime>1678223880</mtime>
+    <size>405040</size>
+    <md5>c170cd105ab7a774a7eb94ee4ec1ce49</md5>
+    <crc32>9afcec1b</crc32>
+    <sha1>842d686a0e84431948ec399230abdecbbdffad23</sha1>
+    <format>WAVE</format>
+    <length>2.11</length>
+    <track>43</track>
+  </file>
+  <file name="Windows Foreground_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Windows Foreground.wav</original>
+    <mtime>1678303085</mtime>
+    <size>148884</size>
+    <md5>3642f05b815e404c979fc8faca4adbde</md5>
+    <crc32>e55b0286</crc32>
+    <sha1>0c72bb3388442fed307f3391cff7225b498d9ac2</sha1>
+  </file>
+  <file name="Windows Hardware Fail.flac" source="derivative">
+    <format>Flac</format>
+    <original>Windows Hardware Fail.wav</original>
+    <mtime>1678301601</mtime>
+    <size>26014</size>
+    <md5>afe8f80fbd71b20ad5eddb346432fa2c</md5>
+    <crc32>9d8aa3bc</crc32>
+    <sha1>5ce5cc93f038c4638c9e52f8b00dbd32ad34faa8</sha1>
+    <length>0.67</length>
+  </file>
+  <file name="Windows Hardware Fail.mp3" source="derivative">
+    <bitrate>81.4</bitrate>
+    <length>00:00</length>
+    <format>VBR MP3</format>
+    <original>Windows Hardware Fail.wav</original>
+    <mtime>1678224447</mtime>
+    <size>8191</size>
+    <md5>5f136cdeba433dc010f0a560c087f432</md5>
+    <crc32>27839ce5</crc32>
+    <sha1>990be29fd6f9060af0d5e9a7a7aa4e141e102e7c</sha1>
+  </file>
+  <file name="Windows Hardware Fail.png" source="derivative">
+    <format>PNG</format>
+    <original>Windows Hardware Fail.wav</original>
+    <mtime>1678302710</mtime>
+    <size>26970</size>
+    <md5>a3029bec47158bbc7f4b1db59eb7c6ec</md5>
+    <crc32>8905f65b</crc32>
+    <sha1>eeefb828fb7879dd6d45d7f84b804eb893f7922c</sha1>
+  </file>
+  <file name="Windows Hardware Fail.wav" source="original">
+    <mtime>1678223883</mtime>
+    <size>128720</size>
+    <md5>97831eb8a8292c504de2832c7aa78200</md5>
+    <crc32>06935014</crc32>
+    <sha1>02f4352d216cd0ed392d2140ba7edb25f64ce252</sha1>
+    <format>WAVE</format>
+    <length>0.67</length>
+    <track>44</track>
+  </file>
+  <file name="Windows Hardware Fail_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Windows Hardware Fail.wav</original>
+    <mtime>1678303236</mtime>
+    <size>127508</size>
+    <md5>1d844813d3e8995a2f9cc111298c7dac</md5>
+    <crc32>d12e1cf6</crc32>
+    <sha1>df7e67b6764d2604f210bb4dd8a20b7cdefe8c5e</sha1>
+  </file>
+  <file name="Windows Hardware Insert.flac" source="derivative">
+    <format>Flac</format>
+    <original>Windows Hardware Insert.wav</original>
+    <mtime>1678301538</mtime>
+    <size>26081</size>
+    <md5>b30e6d8adb98b95b320d8a977179775a</md5>
+    <crc32>d6a56c5c</crc32>
+    <sha1>add4974b9afea8aae9164d0744a8763dbbbca3c1</sha1>
+    <length>0.65</length>
+  </file>
+  <file name="Windows Hardware Insert.mp3" source="derivative">
+    <bitrate>87.7</bitrate>
+    <length>00:00</length>
+    <format>VBR MP3</format>
+    <original>Windows Hardware Insert.wav</original>
+    <mtime>1678224397</mtime>
+    <size>8743</size>
+    <md5>70f6258ce2ce9e034eef85ee5c555938</md5>
+    <crc32>3993eab2</crc32>
+    <sha1>172c4d36cc1a4f6b8b2db46f20266d183a03f41a</sha1>
+  </file>
+  <file name="Windows Hardware Insert.png" source="derivative">
+    <format>PNG</format>
+    <original>Windows Hardware Insert.wav</original>
+    <mtime>1678302485</mtime>
+    <size>29381</size>
+    <md5>0c465cc9e6a03c0976f4374f9cb75c58</md5>
+    <crc32>c6f4a0dc</crc32>
+    <sha1>d75af6e83b0b3b6c05b754b3e4eed16b4942745b</sha1>
+  </file>
+  <file name="Windows Hardware Insert.wav" source="original">
+    <mtime>1678223885</mtime>
+    <size>125220</size>
+    <md5>161bf1c098c79dc90180307c1d6c868d</md5>
+    <crc32>50df55e9</crc32>
+    <sha1>bdb28d4e473388e653af3d7a6a2a436dbd3e8367</sha1>
+    <format>WAVE</format>
+    <length>0.65</length>
+    <track>45</track>
+  </file>
+  <file name="Windows Hardware Insert_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Windows Hardware Insert.wav</original>
+    <mtime>1678302919</mtime>
+    <size>130326</size>
+    <md5>a12610686ddb52ed99e3208dfde07c5d</md5>
+    <crc32>592d56ae</crc32>
+    <sha1>b5a940e152f6f3e6438b421bc1ed3d3d232ae212</sha1>
+  </file>
+  <file name="Windows Hardware Remove.flac" source="derivative">
+    <format>Flac</format>
+    <original>Windows Hardware Remove.wav</original>
+    <mtime>1678301484</mtime>
+    <size>28916</size>
+    <md5>9f71324b04f7026f9ff9d0c2eba5d896</md5>
+    <crc32>fd52eae6</crc32>
+    <sha1>9259de6b2df20a7728ef0ed6d54ebba950527497</sha1>
+    <length>0.84</length>
+  </file>
+  <file name="Windows Hardware Remove.mp3" source="derivative">
+    <bitrate>79.1</bitrate>
+    <length>00:00</length>
+    <format>VBR MP3</format>
+    <original>Windows Hardware Remove.wav</original>
+    <mtime>1678224182</mtime>
+    <size>9896</size>
+    <md5>47ef683bbc50fa81fdeaf62d43953755</md5>
+    <crc32>bf31bdf0</crc32>
+    <sha1>184f8bb5a88a64541286ebcc8c9bec380d2caf4d</sha1>
+  </file>
+  <file name="Windows Hardware Remove.png" source="derivative">
+    <format>PNG</format>
+    <original>Windows Hardware Remove.wav</original>
+    <mtime>1678302661</mtime>
+    <size>22900</size>
+    <md5>51b15f1d3cfe453d5d69cf7ca919c639</md5>
+    <crc32>45ab4d19</crc32>
+    <sha1>2e3c59ed3d3cc5fd5876ceeba151059d822fc8b8</sha1>
+  </file>
+  <file name="Windows Hardware Remove.wav" source="original">
+    <mtime>1678223888</mtime>
+    <size>161580</size>
+    <md5>e3e55d0074603e18c8c2aaf89299c0a5</md5>
+    <crc32>cd2ba0ce</crc32>
+    <sha1>0e2d226487f9ba65c82d9e5a0a9c635b7c3800d4</sha1>
+    <format>WAVE</format>
+    <length>0.84</length>
+    <track>46</track>
+  </file>
+  <file name="Windows Hardware Remove_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Windows Hardware Remove.wav</original>
+    <mtime>1678303251</mtime>
+    <size>130269</size>
+    <md5>0a899ae57e1796fdf3b4d365e57e5329</md5>
+    <crc32>30ddfb23</crc32>
+    <sha1>fb8e5a7e22515418d4594dd651120a9535705cb5</sha1>
+  </file>
+  <file name="Windows Information Bar.flac" source="derivative">
+    <format>Flac</format>
+    <original>Windows Information Bar.wav</original>
+    <mtime>1678301499</mtime>
+    <size>12620</size>
+    <md5>1fc8963083d5bc8f5781d44bd33e684a</md5>
+    <crc32>a3da973d</crc32>
+    <sha1>b9a55c64d3e57150d831067cde66ca025965b859</sha1>
+    <length>0.13</length>
+  </file>
+  <file name="Windows Information Bar.mp3" source="derivative">
+    <bitrate>141</bitrate>
+    <length>00:00</length>
+    <format>VBR MP3</format>
+    <original>Windows Information Bar.wav</original>
+    <mtime>1678224611</mtime>
+    <size>4340</size>
+    <md5>2a70902f66c283c95865504a6da13c76</md5>
+    <crc32>1a070050</crc32>
+    <sha1>60efbf36ec0ab1c94495402f6d0561bed3fef0d0</sha1>
+  </file>
+  <file name="Windows Information Bar.png" source="derivative">
+    <format>PNG</format>
+    <original>Windows Information Bar.wav</original>
+    <mtime>1678302555</mtime>
+    <size>35724</size>
+    <md5>6f6a3872a8697b112f792d2b3c950493</md5>
+    <crc32>2dd030bb</crc32>
+    <sha1>0125c1f8d537e4874a512554cda9ac875db46e5b</sha1>
+  </file>
+  <file name="Windows Information Bar.wav" source="original">
+    <mtime>1678223753</mtime>
+    <size>23308</size>
+    <md5>0d9e9c0a8b66b41442218e83d109f7b3</md5>
+    <crc32>2f5686bd</crc32>
+    <sha1>f5c9f1463c6fe09894a1b4a063ae2bfe8395acbf</sha1>
+    <format>WAVE</format>
+    <length>0.13</length>
+    <track>47</track>
+  </file>
+  <file name="Windows Information Bar_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Windows Information Bar.wav</original>
+    <mtime>1678303054</mtime>
+    <size>105304</size>
+    <md5>99426fef0af4827acc5fd26ff71b699e</md5>
+    <crc32>c9c5da25</crc32>
+    <sha1>e66693441c39ed28ad6d733def007cb8c841cabb</sha1>
+  </file>
+  <file name="Windows Logoff Sound.flac" source="derivative">
+    <format>Flac</format>
+    <original>Windows Logoff Sound.wav</original>
+    <mtime>1678301515</mtime>
+    <size>63698</size>
+    <md5>e35c5906e0761693e60ed517091f8a3e</md5>
+    <crc32>ccf5215e</crc32>
+    <sha1>b0152652c5f5fc900bc689ebc367c77b6881714f</sha1>
+    <length>1.08</length>
+  </file>
+  <file name="Windows Logoff Sound.mp3" source="derivative">
+    <bitrate>161</bitrate>
+    <length>00:01</length>
+    <format>VBR MP3</format>
+    <original>Windows Logoff Sound.wav</original>
+    <mtime>1678224762</mtime>
+    <size>23667</size>
+    <md5>96337865eaeae349b938132a86db923a</md5>
+    <crc32>ccfef2f9</crc32>
+    <sha1>5f0366c86fd212f1964ccc433256ac559272feaa</sha1>
+  </file>
+  <file name="Windows Logoff Sound.png" source="derivative">
+    <format>PNG</format>
+    <original>Windows Logoff Sound.wav</original>
+    <mtime>1678302697</mtime>
+    <size>33962</size>
+    <md5>e842a50aaf5f296ea95327cc6791b7f7</md5>
+    <crc32>c66508b6</crc32>
+    <sha1>ff819ce5cba7df98e08348603cf8983531030bd9</sha1>
+  </file>
+  <file name="Windows Logoff Sound.wav" source="original">
+    <mtime>1678223890</mtime>
+    <size>190388</size>
+    <md5>1a2ef419028c8e9317fb0290b269a966</md5>
+    <crc32>1825230a</crc32>
+    <sha1>e5a01495bc63be0aa9deaf9aa65e4b33c2cf5e28</sha1>
+    <format>WAVE</format>
+    <length>1.08</length>
+    <track>48</track>
+  </file>
+  <file name="Windows Logoff Sound_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Windows Logoff Sound.wav</original>
+    <mtime>1678303267</mtime>
+    <size>288720</size>
+    <md5>b5dd84838e43e11c818bb079be90f9d9</md5>
+    <crc32>d7605c25</crc32>
+    <sha1>28c571fa51c000eee78032cb27a21eac9314c424</sha1>
+  </file>
+  <file name="Windows Logon.flac" source="derivative">
+    <format>Flac</format>
+    <original>Windows Logon.wav</original>
+    <mtime>1678301376</mtime>
+    <size>100827</size>
+    <md5>0ae12dd3f61bd3088f352a401e3f37ca</md5>
+    <crc32>af787eac</crc32>
+    <sha1>1e7a59a63ff5e3c670bd25c1923a1f3375b056df</sha1>
+    <length>4.36</length>
+  </file>
+  <file name="Windows Logon.mp3" source="derivative">
+    <bitrate>105</bitrate>
+    <length>00:04</length>
+    <format>VBR MP3</format>
+    <original>Windows Logon.wav</original>
+    <mtime>1678224509</mtime>
+    <size>59327</size>
+    <md5>eb7061308ca8b84a0d98b668be3efc88</md5>
+    <crc32>70dd8a41</crc32>
+    <sha1>859192c148886fa49314cf460f5361c725c9b83a</sha1>
+  </file>
+  <file name="Windows Logon.png" source="derivative">
+    <format>PNG</format>
+    <original>Windows Logon.wav</original>
+    <mtime>1678302415</mtime>
+    <size>15644</size>
+    <md5>982e8602ede3121c7450a7b902badc37</md5>
+    <crc32>79c3acc2</crc32>
+    <sha1>4410a719360bf1526fad0316f7d1201429ff7abf</sha1>
+  </file>
+  <file name="Windows Logon.wav" source="original">
+    <mtime>1678223893</mtime>
+    <size>384496</size>
+    <md5>35922ecefb9f458fdb5098792ed9afdd</md5>
+    <crc32>6e8f6191</crc32>
+    <sha1>2f45351f6b9b32ad463ebc744dffc5cba094222c</sha1>
+    <format>WAVE</format>
+    <length>4.36</length>
+    <track>49</track>
+  </file>
+  <file name="Windows Logon_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Windows Logon.wav</original>
+    <mtime>1678303274</mtime>
+    <size>259810</size>
+    <md5>7063a4e2c3f9c76bcb3f45caa6e51328</md5>
+    <crc32>05d0d923</crc32>
+    <sha1>4d5223c016892846a67e8426bebdbaa810e36a21</sha1>
+  </file>
+  <file name="Windows Menu Command.flac" source="derivative">
+    <format>Flac</format>
+    <original>Windows Menu Command.wav</original>
+    <mtime>1678301335</mtime>
+    <size>14377</size>
+    <md5>10effdf6d3e15bc48b8a1f740f83ed33</md5>
+    <crc32>861dfbcc</crc32>
+    <sha1>d101b9563f4aa48e791d0485e77ae4e228b09692</sha1>
+    <length>0.15</length>
+  </file>
+  <file name="Windows Menu Command.mp3" source="derivative">
+    <bitrate>215</bitrate>
+    <length>00:00</length>
+    <format>VBR MP3</format>
+    <original>Windows Menu Command.wav</original>
+    <mtime>1678224792</mtime>
+    <size>6013</size>
+    <md5>631dafe49f0ad156b329e5f64cf635bc</md5>
+    <crc32>ed461770</crc32>
+    <sha1>c11d97c0cea9f1dcc9a534a25535fa9d610ae6e0</sha1>
+  </file>
+  <file name="Windows Menu Command.png" source="derivative">
+    <format>PNG</format>
+    <original>Windows Menu Command.wav</original>
+    <mtime>1678302390</mtime>
+    <size>25844</size>
+    <md5>3e4ea5ec64b63c97675e04ca8dd0faa8</md5>
+    <crc32>12d29c92</crc32>
+    <sha1>cf3f86899525c613fd6a02ce16e89994e0f0510e</sha1>
+  </file>
+  <file name="Windows Menu Command.wav" source="original">
+    <mtime>1678223895</mtime>
+    <size>26124</size>
+    <md5>822b4c37ce07436e2192785f3274386f</md5>
+    <crc32>a5590c65</crc32>
+    <sha1>8f25e5d74a7e5ce13fce33ed4587e56e16941754</sha1>
+    <format>WAVE</format>
+    <length>0.15</length>
+    <track>50</track>
+  </file>
+  <file name="Windows Menu Command_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Windows Menu Command.wav</original>
+    <mtime>1678303282</mtime>
+    <size>123853</size>
+    <md5>62b644990311433e62f94afc07dfb8fd</md5>
+    <crc32>286e5b35</crc32>
+    <sha1>f6fa932ca2b11649fa16e8e06eccf748b9b574f2</sha1>
+  </file>
+  <file name="Windows Message Nudge.flac" source="derivative">
+    <format>Flac</format>
+    <original>Windows Message Nudge.wav</original>
+    <mtime>1678301392</mtime>
+    <size>45183</size>
+    <md5>2488651001ffba11f6033cf2324a5796</md5>
+    <crc32>2e9801e6</crc32>
+    <sha1>fef8076f901d1f6cd8c286baa74ad5f46858492a</sha1>
+    <length>1.25</length>
+  </file>
+  <file name="Windows Message Nudge.mp3" source="derivative">
+    <bitrate>79.7</bitrate>
+    <length>00:01</length>
+    <format>VBR MP3</format>
+    <original>Windows Message Nudge.wav</original>
+    <mtime>1678224942</mtime>
+    <size>14028</size>
+    <md5>7033e4109dbd386567a0bd721ef7a535</md5>
+    <crc32>015323f4</crc32>
+    <sha1>c4f72585a0910cf1799e86bcbd26611c8ab3095e</sha1>
+  </file>
+  <file name="Windows Message Nudge.png" source="derivative">
+    <format>PNG</format>
+    <original>Windows Message Nudge.wav</original>
+    <mtime>1678302353</mtime>
+    <size>26779</size>
+    <md5>a281c2448bea3c30a120d309d909854a</md5>
+    <crc32>418b65e9</crc32>
+    <sha1>0436d57c7877cbfdbba04d822176c9ed210e1f3a</sha1>
+  </file>
+  <file name="Windows Message Nudge.wav" source="original">
+    <mtime>1678223898</mtime>
+    <size>240140</size>
+    <md5>88fb1f97c2d864e735fae795d3878322</md5>
+    <crc32>9b2bd87b</crc32>
+    <sha1>68b007aac0520125d5c06b4bba9fa426400c0de3</sha1>
+    <format>WAVE</format>
+    <length>1.25</length>
+    <track>51</track>
+  </file>
+  <file name="Windows Message Nudge_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Windows Message Nudge.wav</original>
+    <mtime>1678303290</mtime>
+    <size>164727</size>
+    <md5>6f2667da96dcb8906af37734f8faaf56</md5>
+    <crc32>f9b75874</crc32>
+    <sha1>6580e2c702340fa7694fbb22473b59a14bdff61b</sha1>
+  </file>
+  <file name="Windows Minimize.flac" source="derivative">
+    <format>Flac</format>
+    <original>Windows Minimize.wav</original>
+    <mtime>1678301415</mtime>
+    <size>41517</size>
+    <md5>db4705805d99cf3f3537c24c305f0eb7</md5>
+    <crc32>f604fea7</crc32>
+    <sha1>e249ed2d181e0246ddd387a32efa06a9e35d36a4</sha1>
+    <length>0.73</length>
+  </file>
+  <file name="Windows Minimize.mp3" source="derivative">
+    <bitrate>158</bitrate>
+    <length>00:00</length>
+    <format>VBR MP3</format>
+    <original>Windows Minimize.wav</original>
+    <mtime>1678224436</mtime>
+    <size>16560</size>
+    <md5>931a461e98651116d232cbbdd98284d0</md5>
+    <crc32>90cc945e</crc32>
+    <sha1>f036bce8d5627952969b2344e2d545b10d7ec129</sha1>
+  </file>
+  <file name="Windows Minimize.png" source="derivative">
+    <format>PNG</format>
+    <original>Windows Minimize.wav</original>
+    <mtime>1678301740</mtime>
+    <size>35782</size>
+    <md5>844716e2c592dd893665af9f77279d7d</md5>
+    <crc32>d959f323</crc32>
+    <sha1>07508826117601ce5f20ae2678d3812d37368a21</sha1>
+  </file>
+  <file name="Windows Minimize.wav" source="original">
+    <mtime>1678223900</mtime>
+    <size>129580</size>
+    <md5>8fb59dad02c94ebc63590b14f4d1de2e</md5>
+    <crc32>879e30d8</crc32>
+    <sha1>dfc56f0510179d9aa177a79293235fab551bce2b</sha1>
+    <format>WAVE</format>
+    <length>0.73</length>
+    <track>52</track>
+  </file>
+  <file name="Windows Minimize_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Windows Minimize.wav</original>
+    <mtime>1678303243</mtime>
+    <size>253474</size>
+    <md5>f188aae78a9cea4b24f736272a880aa4</md5>
+    <crc32>2f0e9c0e</crc32>
+    <sha1>04826b704571e68daf53a0908ce2f7d930ae6e76</sha1>
+  </file>
+  <file name="Windows Navigation Start.flac" source="derivative">
+    <format>Flac</format>
+    <original>Windows Navigation Start.wav</original>
+    <mtime>1678301423</mtime>
+    <size>11778</size>
+    <md5>411684af0f82db59a8a472eeeb2db528</md5>
+    <crc32>072bf0b0</crc32>
+    <sha1>3b77b50f6b0f2f74aaf0dc5e7751c50956c02b71</sha1>
+    <length>0.06</length>
+  </file>
+  <file name="Windows Navigation Start.mp3" source="derivative">
+    <bitrate>192</bitrate>
+    <length>00:00</length>
+    <format>VBR MP3</format>
+    <original>Windows Navigation Start.wav</original>
+    <mtime>1678224917</mtime>
+    <size>3610</size>
+    <md5>7fd560cc46a18c5e898edd22137fc034</md5>
+    <crc32>fc67fce9</crc32>
+    <sha1>f95fc6d35adcdc944c9edfa5847517561597b528</sha1>
+  </file>
+  <file name="Windows Navigation Start.wav" source="original">
+    <mtime>1678223756</mtime>
+    <size>11340</size>
+    <md5>b82aa79f496456ffc5b952b484af25f5</md5>
+    <crc32>1019d519</crc32>
+    <sha1>081a9fdbfa6c33c03e90d2e8f560d915672b789b</sha1>
+    <format>WAVE</format>
+    <length>0.06</length>
+    <track>53</track>
+  </file>
+  <file name="Windows Navigation Start_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Windows Navigation Start.wav</original>
+    <mtime>1678303298</mtime>
+    <size>71320</size>
+    <md5>c457328cce8321641aba821b9296461b</md5>
+    <crc32>b551e3d5</crc32>
+    <sha1>f73dfaefe31337a6cc2c953562bdfd00094f7d4e</sha1>
+  </file>
+  <file name="Windows Notify Calendar.flac" source="derivative">
+    <format>Flac</format>
+    <original>Windows Notify Calendar.wav</original>
+    <mtime>1678301447</mtime>
+    <size>57328</size>
+    <md5>d1ff161ccd80ddf84f2dae6ca40f91ee</md5>
+    <crc32>cfe68342</crc32>
+    <sha1>307e72759cc6df654fcdc079114c55a362dbbe55</sha1>
+    <length>1.99</length>
+  </file>
+  <file name="Windows Notify Calendar.mp3" source="derivative">
+    <bitrate>68</bitrate>
+    <length>00:02</length>
+    <format>VBR MP3</format>
+    <original>Windows Notify Calendar.wav</original>
+    <mtime>1678224883</mtime>
+    <size>18257</size>
+    <md5>1fa714f73afaeaea5638b1d915b3338c</md5>
+    <crc32>25d43f3e</crc32>
+    <sha1>f94ee347048698117daf64721413cf76943b0fc5</sha1>
+  </file>
+  <file name="Windows Notify Calendar.png" source="derivative">
+    <format>PNG</format>
+    <original>Windows Notify Calendar.wav</original>
+    <mtime>1678302271</mtime>
+    <size>22915</size>
+    <md5>b9536532ed0991388eb0aaa4c2f14b2f</md5>
+    <crc32>b29acd88</crc32>
+    <sha1>9f5f357b1cf54de020675533a7d7fef6119bce6e</sha1>
+  </file>
+  <file name="Windows Notify Calendar.wav" source="original">
+    <mtime>1678223902</mtime>
+    <size>381956</size>
+    <md5>f6dd00087c453f2092ff09e3c3a2f798</md5>
+    <crc32>02ec5989</crc32>
+    <sha1>bc0d83765cf258d330d55a36e62d09f8cad956d4</sha1>
+    <format>WAVE</format>
+    <length>1.99</length>
+    <track>55</track>
+  </file>
+  <file name="Windows Notify Calendar_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Windows Notify Calendar.wav</original>
+    <mtime>1678303259</mtime>
+    <size>157004</size>
+    <md5>0d2568f78f3438131d343f4c59b79de2</md5>
+    <crc32>13620159</crc32>
+    <sha1>d4b4b826373e2b437dee4f65e8fc487bfd0a9c85</sha1>
+  </file>
+  <file name="Windows Notify Email.flac" source="derivative">
+    <format>Flac</format>
+    <original>Windows Notify Email.wav</original>
+    <mtime>1678301361</mtime>
+    <size>56045</size>
+    <md5>5eb375ba5c185024b6b1c3acb8dd3878</md5>
+    <crc32>15e7bdd8</crc32>
+    <sha1>4713663fa1d77d38cec8739b0f077d078db885c4</sha1>
+    <length>1.96</length>
+  </file>
+  <file name="Windows Notify Email.mp3" source="derivative">
+    <bitrate>66.9</bitrate>
+    <length>00:01</length>
+    <format>VBR MP3</format>
+    <original>Windows Notify Email.wav</original>
+    <mtime>1678224847</mtime>
+    <size>17776</size>
+    <md5>31ad820a979ee644398e780ea6fc53a5</md5>
+    <crc32>13f16eba</crc32>
+    <sha1>e518fd0257054eaf9eeeac7c25793d6595574332</sha1>
+  </file>
+  <file name="Windows Notify Email.png" source="derivative">
+    <format>PNG</format>
+    <original>Windows Notify Email.wav</original>
+    <mtime>1678302440</mtime>
+    <size>20553</size>
+    <md5>2777c9bfa3ca47932dba0b04921259e4</md5>
+    <crc32>f65287e6</crc32>
+    <sha1>e091ac6d69406a6753a9bc370cb0555032b3bf2a</sha1>
+  </file>
+  <file name="Windows Notify Email.wav" source="original">
+    <mtime>1678223905</mtime>
+    <size>376120</size>
+    <md5>56892c353ebcbf44751a855c60dd546a</md5>
+    <crc32>0c9f0f54</crc32>
+    <sha1>3dd58e0f2847154d1e452278b5ce6b95417a9177</sha1>
+    <format>WAVE</format>
+    <length>1.96</length>
+    <track>56</track>
+  </file>
+  <file name="Windows Notify Email_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Windows Notify Email.wav</original>
+    <mtime>1678302903</mtime>
+    <size>157339</size>
+    <md5>3463873908691053fbd57d462b90cee9</md5>
+    <crc32>b37bcc7e</crc32>
+    <sha1>32562e4c5c23784a843fe1e6e17defe4ea170d99</sha1>
+  </file>
+  <file name="Windows Notify Messaging.flac" source="derivative">
+    <format>Flac</format>
+    <original>Windows Notify Messaging.wav</original>
+    <mtime>1678301369</mtime>
+    <size>55187</size>
+    <md5>2efe71e08db144eb06737e2b993092a1</md5>
+    <crc32>526be17c</crc32>
+    <sha1>f46b0715e0b9cd7a63ebdf29231ca09cea58cf96</sha1>
+    <length>1.87</length>
+  </file>
+  <file name="Windows Notify Messaging.mp3" source="derivative">
+    <bitrate>66.6</bitrate>
+    <length>00:01</length>
+    <format>VBR MP3</format>
+    <original>Windows Notify Messaging.wav</original>
+    <mtime>1678224532</mtime>
+    <size>16911</size>
+    <md5>cf45271f001fa45b0b68e5e4428d8288</md5>
+    <crc32>e07d0dbd</crc32>
+    <sha1>3daee2bf71960341041e84e2dd060dad57649ce1</sha1>
+  </file>
+  <file name="Windows Notify Messaging.png" source="derivative">
+    <format>PNG</format>
+    <original>Windows Notify Messaging.wav</original>
+    <mtime>1678301996</mtime>
+    <size>20449</size>
+    <md5>1286256a5508d2be44374bcd053c675c</md5>
+    <crc32>9c1fbc79</crc32>
+    <sha1>4a4314e959fc589aff924d96531c80a4d9e25e07</sha1>
+  </file>
+  <file name="Windows Notify Messaging.wav" source="original">
+    <mtime>1678223907</mtime>
+    <size>359412</size>
+    <md5>f3e7ac13d43c143d08fd19e8e15e902d</md5>
+    <crc32>e29fca13</crc32>
+    <sha1>f771884c054c47fd1fa4647e48f8ad16f7fb0d4e</sha1>
+    <format>WAVE</format>
+    <length>1.87</length>
+    <track>57</track>
+  </file>
+  <file name="Windows Notify Messaging_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Windows Notify Messaging.wav</original>
+    <mtime>1678303070</mtime>
+    <size>161881</size>
+    <md5>3346229683004ec129a0ff7b7723e47e</md5>
+    <crc32>30600184</crc32>
+    <sha1>b55e90c5159ad25ec49f57c7897aee0cd4a936a9</sha1>
+  </file>
+  <file name="Windows Notify System Generic.flac" source="derivative">
+    <format>Flac</format>
+    <original>Windows Notify System Generic.wav</original>
+    <mtime>1678301345</mtime>
+    <size>43031</size>
+    <md5>ba6ef766bfc2afa63fed93f8e44b93fc</md5>
+    <crc32>4519475c</crc32>
+    <sha1>ef6e5e05887af628c5ef0450b0d01d5fb8ef2220</sha1>
+    <length>1.29</length>
+  </file>
+  <file name="Windows Notify System Generic.mp3" source="derivative">
+    <bitrate>73.2</bitrate>
+    <length>00:01</length>
+    <format>VBR MP3</format>
+    <original>Windows Notify System Generic.wav</original>
+    <mtime>1678224217</mtime>
+    <size>13188</size>
+    <md5>0617f9ff56ee29af6e8430bae990c2c8</md5>
+    <crc32>9c976989</crc32>
+    <sha1>1fd920b8bc5ec29998abb2d1f74f45de40696fb8</sha1>
+  </file>
+  <file name="Windows Notify System Generic.png" source="derivative">
+    <format>PNG</format>
+    <original>Windows Notify System Generic.wav</original>
+    <mtime>1678302128</mtime>
+    <size>27476</size>
+    <md5>2079eb2bfdf66851e8ae8d0bdc6fb27b</md5>
+    <crc32>c6eb5835</crc32>
+    <sha1>ea114b695c5e2b493fd39e7ab8e7d79c269443a5</sha1>
+  </file>
+  <file name="Windows Notify System Generic.wav" source="original">
+    <mtime>1678223910</mtime>
+    <size>248092</size>
+    <md5>08345e7d3896976835084361e28e9030</md5>
+    <crc32>9e6dfb0c</crc32>
+    <sha1>caac53b934c869bc768a985fd306a7bae3db66cc</sha1>
+    <format>WAVE</format>
+    <length>1.29</length>
+    <track>58</track>
+  </file>
+  <file name="Windows Notify System Generic_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Windows Notify System Generic.wav</original>
+    <mtime>1678302885</mtime>
+    <size>160332</size>
+    <md5>36a8607492a7e6d086463cba6c1c6309</md5>
+    <crc32>ca1504d6</crc32>
+    <sha1>b1970deedd443d84951ce7398646ee847b47652d</sha1>
+  </file>
+  <file name="Windows Notify.flac" source="derivative">
+    <format>Flac</format>
+    <original>Windows Notify.wav</original>
+    <mtime>1678301432</mtime>
+    <size>47773</size>
+    <md5>fc51a9214d5fb31d54de1d3bdc05e51d</md5>
+    <crc32>26085f6c</crc32>
+    <sha1>1fee8f98606c6bab32f202e88879f2ae3b4807fc</sha1>
+    <length>1.29</length>
+  </file>
+  <file name="Windows Notify.mp3" source="derivative">
+    <bitrate>107</bitrate>
+    <length>00:01</length>
+    <format>VBR MP3</format>
+    <original>Windows Notify.wav</original>
+    <mtime>1678224641</mtime>
+    <size>18924</size>
+    <md5>38cd13766fffbaf38e1e9f41ad959e09</md5>
+    <crc32>b6001334</crc32>
+    <sha1>c406c27b9a2f923c08eeb19e0cd7a79aa099d727</sha1>
+  </file>
+  <file name="Windows Notify.png" source="derivative">
+    <format>PNG</format>
+    <original>Windows Notify.wav</original>
+    <mtime>1678302152</mtime>
+    <size>26772</size>
+    <md5>2ce7bb4b9694040b5b30a7896c324b3c</md5>
+    <crc32>1539c97b</crc32>
+    <sha1>47fc5014af2bd5a8ddef1df3b7acd0bee6a51bae</sha1>
+  </file>
+  <file name="Windows Notify.wav" source="original">
+    <mtime>1678223913</mtime>
+    <size>227372</size>
+    <md5>9a076491a7c649604a5546a9cfebf79e</md5>
+    <crc32>c3e3e1f6</crc32>
+    <sha1>c733ac6a193d64aefd57b3fcca564364c2168e29</sha1>
+    <format>WAVE</format>
+    <length>1.29</length>
+    <track>54</track>
+  </file>
+  <file name="Windows Notify_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Windows Notify.wav</original>
+    <mtime>1678302893</mtime>
+    <size>221868</size>
+    <md5>561c53c7a2395a5939d4d533686c26d5</md5>
+    <crc32>48878435</crc32>
+    <sha1>1e26a81d51dae3fc65314ee4cba518f2ceac4157</sha1>
+  </file>
+  <file name="Windows Pop-up Blocked.flac" source="derivative">
+    <format>Flac</format>
+    <original>Windows Pop-up Blocked.wav</original>
+    <mtime>1678301238</mtime>
+    <size>20685</size>
+    <md5>e8d37c454205ca1c4d4793dcb0ab2800</md5>
+    <crc32>ab102607</crc32>
+    <sha1>c8a3a6905e6062acbb522234b364366c223f8cc4</sha1>
+    <length>0.48</length>
+  </file>
+  <file name="Windows Pop-up Blocked.mp3" source="derivative">
+    <bitrate>107</bitrate>
+    <length>00:00</length>
+    <format>VBR MP3</format>
+    <original>Windows Pop-up Blocked.wav</original>
+    <mtime>1678224580</mtime>
+    <size>8070</size>
+    <md5>4d081fa02245d4e1a6424971490d9423</md5>
+    <crc32>15cdfa29</crc32>
+    <sha1>e65a400868b6d53155b6cd676c48d1a02835fbf7</sha1>
+  </file>
+  <file name="Windows Pop-up Blocked.png" source="derivative">
+    <format>PNG</format>
+    <original>Windows Pop-up Blocked.wav</original>
+    <mtime>1678302177</mtime>
+    <size>25500</size>
+    <md5>ef07f63b94b752422bc696a447a5e80d</md5>
+    <crc32>a61de249</crc32>
+    <sha1>18178ab8c6178e6cadbedce8e7741148d2048e3b</sha1>
+  </file>
+  <file name="Windows Pop-up Blocked.wav" source="original">
+    <mtime>1678223760</mtime>
+    <size>85548</size>
+    <md5>871cbb63dda8c8673173d34b9d67b11e</md5>
+    <crc32>52094d6c</crc32>
+    <sha1>7538fae92e51379c0875a6a51bfe6ec7f1454dee</sha1>
+    <format>WAVE</format>
+    <length>0.48</length>
+    <track>59</track>
+  </file>
+  <file name="Windows Pop-up Blocked_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Windows Pop-up Blocked.wav</original>
+    <mtime>1678302868</mtime>
+    <size>153650</size>
+    <md5>083e2090fb9db17a60884f485a385408</md5>
+    <crc32>56039f97</crc32>
+    <sha1>2ea5d50b7ca1dae6df3a2f9e71119292eddfe0e8</sha1>
+  </file>
+  <file name="Windows Print complete.flac" source="derivative">
+    <format>Flac</format>
+    <original>Windows Print complete.wav</original>
+    <mtime>1678301245</mtime>
+    <size>67028</size>
+    <md5>387c278d5c628b083db5403bc0f1154b</md5>
+    <crc32>086df1e1</crc32>
+    <sha1>bea65b0385ba976c2ba922e17c65f5b4cb12c6ac</sha1>
+    <length>2.01</length>
+  </file>
+  <file name="Windows Print complete.mp3" source="derivative">
+    <bitrate>97.4</bitrate>
+    <length>00:02</length>
+    <format>VBR MP3</format>
+    <original>Windows Print complete.wav</original>
+    <mtime>1678224779</mtime>
+    <size>25923</size>
+    <md5>3c0056b3c44caf98bda729927105d9d6</md5>
+    <crc32>8dc857fa</crc32>
+    <sha1>b4e530145b9ce49fb3b90754d2bb14b916d483ec</sha1>
+  </file>
+  <file name="Windows Print complete.png" source="derivative">
+    <format>PNG</format>
+    <original>Windows Print complete.wav</original>
+    <mtime>1678302064</mtime>
+    <size>16340</size>
+    <md5>917c5c76b9b613e2f76b90bf8799f5c8</md5>
+    <crc32>e2e899c7</crc32>
+    <sha1>6dd67c4ab3a750aec7e4155c8fc5fae0beb60669</sha1>
+  </file>
+  <file name="Windows Print complete.wav" source="original">
+    <mtime>1678223915</mtime>
+    <size>353836</size>
+    <md5>53c3dd1b125b8fe413de960a304aa8b9</md5>
+    <crc32>5ae270bb</crc32>
+    <sha1>2fedcaf459a909b2f5bfc2eda97fb1713a46d3ac</sha1>
+    <format>WAVE</format>
+    <length>2.01</length>
+    <track>60</track>
+  </file>
+  <file name="Windows Print complete_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Windows Print complete.wav</original>
+    <mtime>1678302815</mtime>
+    <size>221815</size>
+    <md5>70bb1d79c991c58eccc8e67a6ee6aaf8</md5>
+    <crc32>c517447f</crc32>
+    <sha1>142ad0f3abbae4b6a8738edf5c2152cfe1c0b90b</sha1>
+  </file>
+  <file name="Windows Proximity Connection.flac" source="derivative">
+    <format>Flac</format>
+    <original>Windows Proximity Connection.wav</original>
+    <mtime>1678301262</mtime>
+    <size>99439</size>
+    <md5>58c5c7e28a99d389dbfc09359119f8be</md5>
+    <crc32>357995f5</crc32>
+    <sha1>daa7a5e66018eab46d915ca999fb14f8dc26b788</sha1>
+    <length>3.99</length>
+  </file>
+  <file name="Windows Proximity Connection.mp3" source="derivative">
+    <bitrate>143</bitrate>
+    <length>00:04</length>
+    <format>VBR MP3</format>
+    <original>Windows Proximity Connection.wav</original>
+    <mtime>1678224709</mtime>
+    <size>73533</size>
+    <md5>04de680154fc19b2534efa8fecb3f01e</md5>
+    <crc32>19cbf87a</crc32>
+    <sha1>aa7068846b8df43f30f48e2aac9e1d83b90c53fb</sha1>
+  </file>
+  <file name="Windows Proximity Connection.png" source="derivative">
+    <format>PNG</format>
+    <original>Windows Proximity Connection.wav</original>
+    <mtime>1678302036</mtime>
+    <size>9623</size>
+    <md5>82ba067158c92abe0293cd6c4041207d</md5>
+    <crc32>6fdafdad</crc32>
+    <sha1>1b88308e9dfce10ffe425447e19b074cd1ac7611</sha1>
+  </file>
+  <file name="Windows Proximity Connection.wav" source="original">
+    <mtime>1678223919</mtime>
+    <size>352060</size>
+    <md5>00882d550b9389c6183ee3da0b668b2d</md5>
+    <crc32>bc2c10ef</crc32>
+    <sha1>62f709485974cdf2a02df56d364dcbd7a1c89683</sha1>
+    <format>WAVE</format>
+    <length>3.99</length>
+    <track>61</track>
+  </file>
+  <file name="Windows Proximity Connection_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Windows Proximity Connection.wav</original>
+    <mtime>1678302861</mtime>
+    <size>320535</size>
+    <md5>2ae6308e1a3ce544037ee15dbc78504e</md5>
+    <crc32>9439bb4c</crc32>
+    <sha1>1866064ba8bd07d750379981585865de6de75aad</sha1>
+  </file>
+  <file name="Windows Proximity Notification.flac" source="derivative">
+    <format>Flac</format>
+    <original>Windows Proximity Notification.wav</original>
+    <mtime>1678301278</mtime>
+    <size>45817</size>
+    <md5>900ad5a627967742a51bcadc11d31906</md5>
+    <crc32>737e80ae</crc32>
+    <sha1>5d489de8885f9c156bcd5d6237145bfba5f8b33b</sha1>
+    <length>1.63</length>
+  </file>
+  <file name="Windows Proximity Notification.mp3" source="derivative">
+    <bitrate>132</bitrate>
+    <length>00:01</length>
+    <format>VBR MP3</format>
+    <original>Windows Proximity Notification.wav</original>
+    <mtime>1678224206</mtime>
+    <size>29175</size>
+    <md5>99178d6546524861e54d6aaf576927db</md5>
+    <crc32>be639b78</crc32>
+    <sha1>43eca3a843927c3cd78d5152d8d282597cae4d5c</sha1>
+  </file>
+  <file name="Windows Proximity Notification.png" source="derivative">
+    <format>PNG</format>
+    <original>Windows Proximity Notification.wav</original>
+    <mtime>1678302226</mtime>
+    <size>16214</size>
+    <md5>29d74af50ccc6419305547068046ec8d</md5>
+    <crc32>bbd0e9e3</crc32>
+    <sha1>85764b763345a57b4ed8c804ebd3c2595d4e9e21</sha1>
+  </file>
+  <file name="Windows Proximity Notification.wav" source="original">
+    <mtime>1678223921</mtime>
+    <size>143740</size>
+    <md5>e15f0210410a574af39b07840ccbe4cc</md5>
+    <crc32>3239caf8</crc32>
+    <sha1>1fdbddadf57554b767328871fcc8882432fce9ab</sha1>
+    <format>WAVE</format>
+    <length>1.63</length>
+    <track>62</track>
+  </file>
+  <file name="Windows Proximity Notification_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Windows Proximity Notification.wav</original>
+    <mtime>1678302853</mtime>
+    <size>274625</size>
+    <md5>08dee26a40b3bb478e6e8052f580dd35</md5>
+    <crc32>6b03576d</crc32>
+    <sha1>eb05c5e19a9cfd1440eb54b3843d6b97eea038f8</sha1>
+  </file>
+  <file name="Windows Recycle.flac" source="derivative">
+    <format>Flac</format>
+    <original>Windows Recycle.wav</original>
+    <mtime>1678301286</mtime>
+    <size>43207</size>
+    <md5>0c5cd2cdc869001f15b29c8c70e21c5b</md5>
+    <crc32>be664dce</crc32>
+    <sha1>b99ba71f74d1eb0d7f87b1a0f64d824c4f48e0fb</sha1>
+    <length>0.54</length>
+  </file>
+  <file name="Windows Recycle.mp3" source="derivative">
+    <bitrate>181</bitrate>
+    <length>00:00</length>
+    <format>VBR MP3</format>
+    <original>Windows Recycle.wav</original>
+    <mtime>1678224384</mtime>
+    <size>14135</size>
+    <md5>1ebf40f79a7b6ec7c6847896514df2e7</md5>
+    <crc32>84398f1e</crc32>
+    <sha1>e91380418455c7ff545481b5f8a677fcafc02f57</sha1>
+  </file>
+  <file name="Windows Recycle.png" source="derivative">
+    <format>PNG</format>
+    <original>Windows Recycle.wav</original>
+    <mtime>1678302113</mtime>
+    <size>23154</size>
+    <md5>a7f67ba7598291d717c6b5fe6a2eb0e8</md5>
+    <crc32>42cfe8a1</crc32>
+    <sha1>58e75d43e6b3a336afea2ec02cd627f31e84f3ac</sha1>
+  </file>
+  <file name="Windows Recycle.wav" source="original">
+    <mtime>1678223924</mtime>
+    <size>95404</size>
+    <md5>eab556b88631ccfd7c0f8246fc01a941</md5>
+    <crc32>d5bd722f</crc32>
+    <sha1>8ec0c13971110cbb802c813d3d3c9311664ce08c</sha1>
+    <format>WAVE</format>
+    <length>0.54</length>
+    <track>63</track>
+  </file>
+  <file name="Windows Recycle_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Windows Recycle.wav</original>
+    <mtime>1678302845</mtime>
+    <size>253409</size>
+    <md5>6093d45af0594dd04dc77dc80fc96e37</md5>
+    <crc32>9c4081ba</crc32>
+    <sha1>6c96c19b7a7a521d61f125a21e6ebc9f1c36b7b2</sha1>
+  </file>
+  <file name="Windows Restore.flac" source="derivative">
+    <format>Flac</format>
+    <original>Windows Restore.wav</original>
+    <mtime>1678301302</mtime>
+    <size>46863</size>
+    <md5>4002a8ffc1e201706b485eefdd7823b2</md5>
+    <crc32>0b11fd67</crc32>
+    <sha1>8e0e1f64f83779085f9ef23f3dcdc892ac831e96</sha1>
+    <length>0.88</length>
+  </file>
+  <file name="Windows Restore.mp3" source="derivative">
+    <bitrate>152</bitrate>
+    <length>00:00</length>
+    <format>VBR MP3</format>
+    <original>Windows Restore.wav</original>
+    <mtime>1678224347</mtime>
+    <size>18493</size>
+    <md5>a28d16b276add84e9b548969cb8dd727</md5>
+    <crc32>ad4e03c0</crc32>
+    <sha1>e2c909f1c24d8d1e63aa4613391db9b3dc1ebc7a</sha1>
+  </file>
+  <file name="Windows Restore.png" source="derivative">
+    <format>PNG</format>
+    <original>Windows Restore.wav</original>
+    <mtime>1678301983</mtime>
+    <size>31837</size>
+    <md5>905320e10d4c18aaa12ef17b17cd3694</md5>
+    <crc32>ec1fd15e</crc32>
+    <sha1>c5226caab1a2617b715eeb57f0a156a0ee7320b6</sha1>
+  </file>
+  <file name="Windows Restore.wav" source="original">
+    <mtime>1678223926</mtime>
+    <size>154924</size>
+    <md5>6ccdcb56c1e11abfd9655d5b9ee91580</md5>
+    <crc32>5c337bf8</crc32>
+    <sha1>3df70c9d62f3e735ff1a0cd3d79c9728c404c330</sha1>
+    <format>WAVE</format>
+    <length>0.88</length>
+    <track>64</track>
+  </file>
+  <file name="Windows Restore_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Windows Restore.wav</original>
+    <mtime>1678302837</mtime>
+    <size>257683</size>
+    <md5>19ba6ce040958ad7dcaa4d33da0e0822</md5>
+    <crc32>84206f85</crc32>
+    <sha1>47abbc7c8291ef2ae0ccd980ccf064c380ff47a5</sha1>
+  </file>
+  <file name="Windows Ringin.flac" source="derivative">
+    <format>Flac</format>
+    <original>Windows Ringin.wav</original>
+    <mtime>1678301230</mtime>
+    <size>52615</size>
+    <md5>9ff9c58d2a1454c3ccaf17fce2463aa9</md5>
+    <crc32>dc1c83a8</crc32>
+    <sha1>8b55b660ba028ca1bacfa251c500832ab2bfd827</sha1>
+    <length>1.13</length>
+  </file>
+  <file name="Windows Ringin.mp3" source="derivative">
+    <bitrate>125</bitrate>
+    <length>00:01</length>
+    <format>VBR MP3</format>
+    <original>Windows Ringin.wav</original>
+    <mtime>1678224286</mtime>
+    <size>19427</size>
+    <md5>460232b577ea02600b86ca6cbde0aec7</md5>
+    <crc32>8ec750bf</crc32>
+    <sha1>3d0b6733df29d7c86b2064dd492c9b65bb8a31e7</sha1>
+  </file>
+  <file name="Windows Ringin.png" source="derivative">
+    <format>PNG</format>
+    <original>Windows Ringin.wav</original>
+    <mtime>1678301919</mtime>
+    <size>38243</size>
+    <md5>882c053bc4f1fe774a94439694168ac8</md5>
+    <crc32>9113a489</crc32>
+    <sha1>5bc3dad3b98bad2883f922ee2a19cd3007bf266a</sha1>
+  </file>
+  <file name="Windows Ringin.wav" source="original">
+    <mtime>1678223929</mtime>
+    <size>198956</size>
+    <md5>b5594801e25824cbf21ca5f75466ebb1</md5>
+    <crc32>1854065f</crc32>
+    <sha1>752de747ed990e3463aefdf2d8b505a42cccb52f</sha1>
+    <format>WAVE</format>
+    <length>1.13</length>
+    <track>65</track>
+  </file>
+  <file name="Windows Ringin_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Windows Ringin.wav</original>
+    <mtime>1678302830</mtime>
+    <size>254057</size>
+    <md5>bdce250de3f7b47965f7fc98eac87583</md5>
+    <crc32>ee1da05f</crc32>
+    <sha1>10f42047809e8e654c60c9645d5d099cc1f9a1c9</sha1>
+  </file>
+  <file name="Windows Ringout.flac" source="derivative">
+    <format>Flac</format>
+    <original>Windows Ringout.wav</original>
+    <mtime>1678301319</mtime>
+    <size>16138</size>
+    <md5>45a99ad2d8faf612d81a37453be1db1a</md5>
+    <crc32>2e8f337a</crc32>
+    <sha1>9f924d174987190f73e107ec3ec5ec4dddac4822</sha1>
+    <length>0.5</length>
+  </file>
+  <file name="Windows Ringout.mp3" source="derivative">
+    <bitrate>81.6</bitrate>
+    <length>00:00</length>
+    <format>VBR MP3</format>
+    <original>Windows Ringout.wav</original>
+    <mtime>1678224158</mtime>
+    <size>6973</size>
+    <md5>5ab732a6bbf0ed1090d377cc6fa008c1</md5>
+    <crc32>3116db06</crc32>
+    <sha1>36a8684c711ee10ed44bf4b4c7e218efdcd31563</sha1>
+  </file>
+  <file name="Windows Ringout.png" source="derivative">
+    <format>PNG</format>
+    <original>Windows Ringout.wav</original>
+    <mtime>1678301894</mtime>
+    <size>50105</size>
+    <md5>45941e6da4c2872d3c4ab6b803482e3a</md5>
+    <crc32>6f71c907</crc32>
+    <sha1>f5a39e432689016b1a5b1f1ea4938d57b76b01c9</sha1>
+  </file>
+  <file name="Windows Ringout.wav" source="original">
+    <mtime>1678223931</mtime>
+    <size>22070</size>
+    <md5>b7bdde53679d0c11c8dd1b5bbe7d252a</md5>
+    <crc32>219692cb</crc32>
+    <sha1>195b22dbf511597ffe4770b6a630d601b998f0a9</sha1>
+    <format>WAVE</format>
+    <length>0.5</length>
+    <track>66</track>
+  </file>
+  <file name="Windows Ringout_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Windows Ringout.wav</original>
+    <mtime>1678302822</mtime>
+    <size>122244</size>
+    <md5>62305e38a89091b41cd5b4236c08bafd</md5>
+    <crc32>24ed9cb1</crc32>
+    <sha1>8d6dffff6340dbfec723b8d6e50c76723d95de5c</sha1>
+  </file>
+  <file name="Windows Shutdown.flac" source="derivative">
+    <format>Flac</format>
+    <original>Windows Shutdown.wav</original>
+    <mtime>1678301254</mtime>
+    <size>55944</size>
+    <md5>4ca46294ea6178c7765fc81c013ed6f9</md5>
+    <crc32>684bc365</crc32>
+    <sha1>93ec04e68c3838fb229e3c513d69bc94b7ad9dae</sha1>
+    <length>0.96</length>
+  </file>
+  <file name="Windows Shutdown.mp3" source="derivative">
+    <bitrate>171</bitrate>
+    <length>00:00</length>
+    <format>VBR MP3</format>
+    <original>Windows Shutdown.wav</original>
+    <mtime>1678224111</mtime>
+    <size>22334</size>
+    <md5>079cbeade8c3db5481f2dfa6cfc356e1</md5>
+    <crc32>7983aa5e</crc32>
+    <sha1>069f3e030f24230a2fd635511d5ea81e5853f99f</sha1>
+  </file>
+  <file name="Windows Shutdown.png" source="derivative">
+    <format>PNG</format>
+    <original>Windows Shutdown.wav</original>
+    <mtime>1678301776</mtime>
+    <size>28594</size>
+    <md5>338afcfa479bfc95481234bf1567309f</md5>
+    <crc32>1496bf3c</crc32>
+    <sha1>c63393a23802c353157e08810a14328ecc0e6629</sha1>
+  </file>
+  <file name="Windows Shutdown.wav" source="original">
+    <mtime>1678223934</mtime>
+    <size>169444</size>
+    <md5>9098e4f6f88cabba92b37a8f43f43d7f</md5>
+    <crc32>c05b44da</crc32>
+    <sha1>c4bb213c66172bf287fad11818f2abf2c54c3c78</sha1>
+    <format>WAVE</format>
+    <length>0.96</length>
+    <track>67</track>
+  </file>
+  <file name="Windows Shutdown_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Windows Shutdown.wav</original>
+    <mtime>1678302935</mtime>
+    <size>276880</size>
+    <md5>0c051362e739048c38fa5fcf27dba8db</md5>
+    <crc32>dea84159</crc32>
+    <sha1>697c689b6c5e1df289e3b0bf0f2f6505d5e3f7ff</sha1>
+  </file>
+  <file name="Windows Startup.flac" source="derivative">
+    <format>Flac</format>
+    <original>Windows Startup.wav</original>
+    <mtime>1678301197</mtime>
+    <size>13615</size>
+    <md5>7be1705ee3de567581c1909ba541e312</md5>
+    <crc32>ecd0779a</crc32>
+    <sha1>8e622fa9a22133c381457018762eb6222278bfd7</sha1>
+    <length>0.22</length>
+  </file>
+  <file name="Windows Startup.mp3" source="derivative">
+    <bitrate>133</bitrate>
+    <length>00:00</length>
+    <format>VBR MP3</format>
+    <original>Windows Startup.wav</original>
+    <mtime>1678224061</mtime>
+    <size>5436</size>
+    <md5>69060967953031d0e92f3af49f662f2a</md5>
+    <crc32>2fe4ee94</crc32>
+    <sha1>264250773c0063ad7285a4e22850c22f85ef17ab</sha1>
+  </file>
+  <file name="Windows Startup.png" source="derivative">
+    <format>PNG</format>
+    <original>Windows Startup.wav</original>
+    <mtime>1678301830</mtime>
+    <size>22371</size>
+    <md5>2752041c7c87ceeb288a8a9df12a5650</md5>
+    <crc32>b625da74</crc32>
+    <sha1>e78f82e6afb904936e6e72953ee96b31e6ae3341</sha1>
+  </file>
+  <file name="Windows Startup.wav" source="original">
+    <mtime>1678223936</mtime>
+    <size>38380</size>
+    <md5>2186201e9bb9bdf4aaa57b1971524239</md5>
+    <crc32>bfb6f316</crc32>
+    <sha1>1e0a86acea4abc763998086ad647f49728de1204</sha1>
+    <format>WAVE</format>
+    <length>0.22</length>
+    <track>68</track>
+  </file>
+  <file name="Windows Startup_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Windows Startup.wav</original>
+    <mtime>1678302877</mtime>
+    <size>120090</size>
+    <md5>ba84ebb5dcb0f1794f9fecb8c30ec9ec</md5>
+    <crc32>982b3e32</crc32>
+    <sha1>b6547002735553af0d923f5da55fe849584ef1d3</sha1>
+  </file>
+  <file name="Windows Unlock.flac" source="derivative">
+    <format>Flac</format>
+    <original>Windows Unlock.wav</original>
+    <mtime>1678301205</mtime>
+    <size>62388</size>
+    <md5>34bbc70ffbee730e3674b2372966d8a6</md5>
+    <crc32>0aa6094a</crc32>
+    <sha1>cfa1133c9b95c69613463039a2514c39390a7d71</sha1>
+    <length>2.74</length>
+  </file>
+  <file name="Windows Unlock.mp3" source="derivative">
+    <bitrate>116</bitrate>
+    <length>00:02</length>
+    <format>VBR MP3</format>
+    <original>Windows Unlock.wav</original>
+    <mtime>1678224257</mtime>
+    <size>41534</size>
+    <md5>55579fc73f9166a54e7b1a5306b8b85d</md5>
+    <crc32>1ef7ccb5</crc32>
+    <sha1>ff4f0f8c836275fe0babc7af1efa3a5133be551f</sha1>
+  </file>
+  <file name="Windows Unlock.png" source="derivative">
+    <format>PNG</format>
+    <original>Windows Unlock.wav</original>
+    <mtime>1678301789</mtime>
+    <size>19130</size>
+    <md5>57c927cba5ac81b38c2418a3642a75c3</md5>
+    <crc32>0be6bbad</crc32>
+    <sha1>33f566b8d6a0924ee120729824386a9bf62205e1</sha1>
+  </file>
+  <file name="Windows Unlock.wav" source="original">
+    <mtime>1678223938</mtime>
+    <size>241708</size>
+    <md5>372c9cbc244b648821ba689afba1171b</md5>
+    <crc32>7246d965</crc32>
+    <sha1>f5986505f3be1a1c80a29569e67bd700f4dbfdea</sha1>
+    <format>WAVE</format>
+    <length>2.74</length>
+    <track>69</track>
+  </file>
+  <file name="Windows Unlock_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Windows Unlock.wav</original>
+    <mtime>1678302942</mtime>
+    <size>287767</size>
+    <md5>f240a8ad0d8db2ef90941025001e28bc</md5>
+    <crc32>8ee1528e</crc32>
+    <sha1>51d429ad463297ffce1c1ac8e894c9459b31a239</sha1>
+  </file>
+  <file name="Windows User Account Control.flac" source="derivative">
+    <format>Flac</format>
+    <original>Windows User Account Control.wav</original>
+    <mtime>1678301221</mtime>
+    <size>55711</size>
+    <md5>ea18475a97d2a4a0f9b8717cef376eac</md5>
+    <crc32>08cf2350</crc32>
+    <sha1>c243c6d00322e7889239f0a74d49d18039285332</sha1>
+    <length>2.11</length>
+  </file>
+  <file name="Windows User Account Control.mp3" source="derivative">
+    <bitrate>63.2</bitrate>
+    <length>00:02</length>
+    <format>VBR MP3</format>
+    <original>Windows User Account Control.wav</original>
+    <mtime>1678224484</mtime>
+    <size>17992</size>
+    <md5>23f4989785e902b7f953af32b3797047</md5>
+    <crc32>5f9521fc</crc32>
+    <sha1>b7f79170155cd4646d65bf4db2e35d64ff390c81</sha1>
+  </file>
+  <file name="Windows User Account Control.png" source="derivative">
+    <format>PNG</format>
+    <original>Windows User Account Control.wav</original>
+    <mtime>1678301881</mtime>
+    <size>18908</size>
+    <md5>999e44ee1bc8fec3061134274e13b025</md5>
+    <crc32>4f771f56</crc32>
+    <sha1>f3b23e833db48e21c027674dc2c0aacefb4aa95a</sha1>
+  </file>
+  <file name="Windows User Account Control.wav" source="original">
+    <mtime>1678223941</mtime>
+    <size>405040</size>
+    <md5>54e81f3e047c2c4a8c416874aa20e918</md5>
+    <crc32>2c313e75</crc32>
+    <sha1>1bfcc2b1d3cd4951d499e47718ba9aa329bb718d</sha1>
+    <format>WAVE</format>
+    <length>2.11</length>
+    <track>70</track>
+  </file>
+  <file name="Windows User Account Control_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Windows User Account Control.wav</original>
+    <mtime>1678303022</mtime>
+    <size>148942</size>
+    <md5>f40cda61bf6316934f5b102417da70fd</md5>
+    <crc32>83abd9e1</crc32>
+    <sha1>a36c55747bd3bd8f32c57e1b838b6a19d0c40215</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1678303445</mtime>
+    <size>2930</size>
+    <md5>7d5a155fc64cbc19c6ffc38348303d31</md5>
+    <crc32>6b5efd0c</crc32>
+    <sha1>27a34a72590ad19ad17395a75bef3facc4ab61ab</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="chimes.flac" source="derivative">
+    <format>Flac</format>
+    <original>chimes.wav</original>
+    <mtime>1678301384</mtime>
+    <size>55275</size>
+    <md5>b03c4ebfbda0562a74fd5e9e73353adf</md5>
+    <crc32>a5102fea</crc32>
+    <sha1>4054f693fdf7f3eb1b88f1abd562763bd84c7fbf</sha1>
+    <length>1.23</length>
+  </file>
+  <file name="chimes.mp3" source="derivative">
+    <bitrate>141</bitrate>
+    <length>00:01</length>
+    <format>VBR MP3</format>
+    <original>chimes.wav</original>
+    <mtime>1678224424</mtime>
+    <size>23217</size>
+    <md5>c44398936ed91e91392cc415170c4a63</md5>
+    <crc32>70b58ee8</crc32>
+    <sha1>e15aafff198458d9ee0ef2e35e276e177e6a3bea</sha1>
+  </file>
+  <file name="chimes.png" source="derivative">
+    <format>PNG</format>
+    <original>chimes.wav</original>
+    <mtime>1678302378</mtime>
+    <size>30986</size>
+    <md5>07f7312edbe157f2101cbd0e92746fb2</md5>
+    <crc32>7f305bed</crc32>
+    <sha1>c5328426d3256075a4cd8ca72b342ab00df495a5</sha1>
+  </file>
+  <file name="chimes.wav" source="original">
+    <mtime>1678223801</mtime>
+    <size>216364</size>
+    <md5>d352721f72c035416ca8f312fad5c504</md5>
+    <crc32>4457db9e</crc32>
+    <sha1>cc3ddf3399cd9f5f515306109dcaf27f1d3bb1bf</sha1>
+    <format>WAVE</format>
+    <length>1.23</length>
+    <track>11</track>
+  </file>
+  <file name="chimes_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>chimes.wav</original>
+    <mtime>1678302792</mtime>
+    <size>270429</size>
+    <md5>48e94f7f9a9cc94e10edeacd6c4986e7</md5>
+    <crc32>25c580ce</crc32>
+    <sha1>0d4292e1016c65886dcf0ae380d87c115fb91628</sha1>
+  </file>
+  <file name="chord.flac" source="derivative">
+    <format>Flac</format>
+    <original>chord.wav</original>
+    <mtime>1678301507</mtime>
+    <size>29393</size>
+    <md5>a2516e1395adb9dc264b6102c4235c11</md5>
+    <crc32>f934f7eb</crc32>
+    <sha1>c903d40b95f133218777a6bd9f8ab5888fb6ad32</sha1>
+    <length>0.65</length>
+  </file>
+  <file name="chord.mp3" source="derivative">
+    <bitrate>118</bitrate>
+    <length>00:00</length>
+    <format>VBR MP3</format>
+    <original>chord.wav</original>
+    <mtime>1678224122</mtime>
+    <size>11153</size>
+    <md5>6862deda0bd5e7b2d98a5c010b5e568b</md5>
+    <crc32>c3294edf</crc32>
+    <sha1>6825e5af563df7fa1edace317979dffea0bc135a</sha1>
+  </file>
+  <file name="chord.png" source="derivative">
+    <format>PNG</format>
+    <original>chord.wav</original>
+    <mtime>1678302329</mtime>
+    <size>19553</size>
+    <md5>b93b765eb3542c68df05a94376b97b5f</md5>
+    <crc32>f8bf71a6</crc32>
+    <sha1>b0bc0bb200e6122e47ba0dff01ff6ae08b0b06b4</sha1>
+  </file>
+  <file name="chord.wav" source="original">
+    <mtime>1678223803</mtime>
+    <size>113964</size>
+    <md5>78b1d68ea6d2f427749cbb489054efc0</md5>
+    <crc32>0cbfd2a2</crc32>
+    <sha1>20872feebeafd847705ea545400b902ab842b712</sha1>
+    <format>WAVE</format>
+    <length>0.65</length>
+    <track>12</track>
+  </file>
+  <file name="chord_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>chord.wav</original>
+    <mtime>1678303188</mtime>
+    <size>186111</size>
+    <md5>7ceab61cf4562fdcfce03b4dd6b6305c</md5>
+    <crc32>1d9b87cf</crc32>
+    <sha1>88ebf8dd17b3338d4ee2df88df3d1aaefc5b4b30</sha1>
+  </file>
+  <file name="ding.flac" source="derivative">
+    <format>Flac</format>
+    <original>ding.wav</original>
+    <mtime>1678301593</mtime>
+    <size>31037</size>
+    <md5>1a291e66a166e987d72bf61da96087e6</md5>
+    <crc32>6c756981</crc32>
+    <sha1>3f305b651a7dd4985b1e4a1d14844ae6c1c6c9df</sha1>
+    <length>0.4</length>
+  </file>
+  <file name="ding.mp3" source="derivative">
+    <bitrate>156</bitrate>
+    <length>00:00</length>
+    <format>VBR MP3</format>
+    <original>ding.wav</original>
+    <mtime>1678224625</mtime>
+    <size>9770</size>
+    <md5>62f0ced05c745b85ecca796bcec91f71</md5>
+    <crc32>582a8ff0</crc32>
+    <sha1>516e6715d8d77756fca2426ae41150830fdec504</sha1>
+  </file>
+  <file name="ding.png" source="derivative">
+    <format>PNG</format>
+    <original>ding.wav</original>
+    <mtime>1678302632</mtime>
+    <size>31722</size>
+    <md5>312dca42222cea6b21d593a927c2a4a2</md5>
+    <crc32>8d581353</crc32>
+    <sha1>8e87d44ac0ea3b5524bdd8788e5d3001d5b30269</sha1>
+  </file>
+  <file name="ding.wav" source="original">
+    <mtime>1678223807</mtime>
+    <size>70060</size>
+    <md5>25940e6ed15d7eaa2e459553536f0dc7</md5>
+    <crc32>34a26c6d</crc32>
+    <sha1>0922c228c2cc5adabb02f5c6976cb13aae43a5f2</sha1>
+    <format>WAVE</format>
+    <length>0.4</length>
+    <track>13</track>
+  </file>
+  <file name="ding_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>ding.wav</original>
+    <mtime>1678303197</mtime>
+    <size>221356</size>
+    <md5>7b513630d2cd3650ec97fad1798a2137</md5>
+    <crc32>fd40e3ae</crc32>
+    <sha1>03849ff2a16ea695092254d84ff64eed47546737</sha1>
+  </file>
+  <file name="flourish.mid" source="original">
+    <mtime>1678223809</mtime>
+    <size>24253</size>
+    <md5>11d22c5ac84a15b62e425b3132e7cd39</md5>
+    <crc32>e3dbc38c</crc32>
+    <sha1>02bb7a0cedd058d98bbf8754c280f527abc71639</sha1>
+    <format>MIDI</format>
+    <viruscheck>1678223975</viruscheck>
+  </file>
+  <file name="flourish.mp3" source="derivative">
+    <bitrate>98</bitrate>
+    <length>01:25</length>
+    <format>VBR MP3</format>
+    <original>flourish.mid</original>
+    <mtime>1678224302</mtime>
+    <size>1047286</size>
+    <md5>f5af6b644b6d9117799b3b5a4028d7e9</md5>
+    <crc32>247b5210</crc32>
+    <sha1>e724ac7ab4b45211697d055a8f533fbe00f2f702</sha1>
+  </file>
+  <file name="flourish_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>flourish.mp3</original>
+    <mtime>1678303124</mtime>
+    <size>143860</size>
+    <md5>7c9c25dcf05e10e8d7b372ef5889e848</md5>
+    <crc32>10cb7e0b</crc32>
+    <sha1>7d9774470f0e9ed32ee2e4d88a2a089dcc08ab93</sha1>
+  </file>
+  <file name="notify.flac" source="derivative">
+    <format>Flac</format>
+    <original>notify.wav</original>
+    <mtime>1678301728</mtime>
+    <size>82618</size>
+    <md5>80d6f54cd336c2e4a4e37b2903f54109</md5>
+    <crc32>9070961b</crc32>
+    <sha1>fc40bf90bf12618ba026fe363e045469d42b17cd</sha1>
+    <length>1.29</length>
+  </file>
+  <file name="notify.mp3" source="derivative">
+    <bitrate>151</bitrate>
+    <length>00:01</length>
+    <format>VBR MP3</format>
+    <original>notify.wav</original>
+    <mtime>1678224682</mtime>
+    <size>26252</size>
+    <md5>12203c1e40399875efbc097dcb317129</md5>
+    <crc32>f5c946c5</crc32>
+    <sha1>45a295c16e7c647b0e5fdbb9eed1d27bf013dc30</sha1>
+  </file>
+  <file name="notify.png" source="derivative">
+    <format>PNG</format>
+    <original>notify.wav</original>
+    <mtime>1678302747</mtime>
+    <size>30869</size>
+    <md5>ea031a3326501045c9bf4d232ffd7cb7</md5>
+    <crc32>327c09dc</crc32>
+    <sha1>52b024983b9d575dd9dbfcc188602bf48452ed66</sha1>
+  </file>
+  <file name="notify.wav" source="original">
+    <mtime>1678223812</mtime>
+    <size>228396</size>
+    <md5>4fc62cc246e25a51917866c2a4e46de8</md5>
+    <crc32>bb9c314c</crc32>
+    <sha1>4a848bd59c1f8ac4366d11f49fc32d3bb8d9ecce</sha1>
+    <format>WAVE</format>
+    <length>1.29</length>
+    <track>14</track>
+  </file>
+  <file name="notify_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>notify.wav</original>
+    <mtime>1678303116</mtime>
+    <size>295116</size>
+    <md5>beac64c1405f528af85a192aafbaa377</md5>
+    <crc32>919a8d41</crc32>
+    <sha1>3ae2d682c7797599fc4307dc53203c246ddd05a3</sha1>
+  </file>
+  <file name="onestop.mid" source="original">
+    <mtime>1678223814</mtime>
+    <size>40075</size>
+    <md5>17b25dd3f251529dcde8fe4c2381cb48</md5>
+    <crc32>2ffac42a</crc32>
+    <sha1>bb4192ebfc34d1d8abd552d11f5458e282677af2</sha1>
+    <format>MIDI</format>
+    <viruscheck>1678223975</viruscheck>
+  </file>
+  <file name="onestop.mp3" source="derivative">
+    <bitrate>97.9</bitrate>
+    <length>04:07</length>
+    <format>VBR MP3</format>
+    <original>onestop.mid</original>
+    <mtime>1678224748</mtime>
+    <size>3025517</size>
+    <md5>c616b892a479c0a329f4342ea0e192c0</md5>
+    <crc32>5bce7a83</crc32>
+    <sha1>c88cdda34d5388e5c87b83725d3cd5f8e4a7008a</sha1>
+  </file>
+  <file name="onestop_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>onestop.mp3</original>
+    <mtime>1678303353</mtime>
+    <size>110384</size>
+    <md5>79e09782b3f7a18315359ce46b848dee</md5>
+    <crc32>f5be8c2b</crc32>
+    <sha1>35b3c9e9402361d8cb15f3cfc754d8d673cf7f03</sha1>
+  </file>
+  <file name="recycle.flac" source="derivative">
+    <format>Flac</format>
+    <original>recycle.wav</original>
+    <mtime>1678301579</mtime>
+    <size>35184</size>
+    <md5>88b0fb573d9e47a866269dd5b7f44deb</md5>
+    <crc32>dc8d206f</crc32>
+    <sha1>4f47c98ce1df70aec0d2acb9fb5f0d71948e2ac9</sha1>
+    <length>0.63</length>
+  </file>
+  <file name="recycle.mp3" source="derivative">
+    <bitrate>149</bitrate>
+    <length>00:00</length>
+    <format>VBR MP3</format>
+    <original>recycle.wav</original>
+    <mtime>1678224543</mtime>
+    <size>13791</size>
+    <md5>4b857182be9bdcfd45583d576de3c3e3</md5>
+    <crc32>2e49b1f8</crc32>
+    <sha1>9edbb61a5dff7d9cd7c5c075c22e82770d38c2da</sha1>
+  </file>
+  <file name="recycle.png" source="derivative">
+    <format>PNG</format>
+    <original>recycle.wav</original>
+    <mtime>1678302402</mtime>
+    <size>31479</size>
+    <md5>a484c4d146dd88ddddd38e7126fcf3fe</md5>
+    <crc32>94d69f1a</crc32>
+    <sha1>c99eca748a2ea62c9111eb17a9e10d285c4304a2</sha1>
+  </file>
+  <file name="recycle.wav" source="original">
+    <mtime>1678223816</mtime>
+    <size>111788</size>
+    <md5>332294f9b6e6303596665da1fbc132ec</md5>
+    <crc32>3f5bf2d6</crc32>
+    <sha1>91b7a7eafceab3ab39467bbb00a5728108d3f0bb</sha1>
+    <format>WAVE</format>
+    <length>0.63</length>
+    <track>15</track>
+  </file>
+  <file name="recycle_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>recycle.wav</original>
+    <mtime>1678303306</mtime>
+    <size>266903</size>
+    <md5>64ada86544ef5ac7443f2a92aa74a0e2</md5>
+    <crc32>8024a735</crc32>
+    <sha1>4a0084acea931bec1b323d2090ffd691cc8e08a6</sha1>
+  </file>
+  <file name="ringout.flac" source="derivative">
+    <format>Flac</format>
+    <original>ringout.wav</original>
+    <mtime>1678301689</mtime>
+    <size>29530</size>
+    <md5>0c0ddf34d80f03987d8d9098ec53f943</md5>
+    <crc32>b3f635ef</crc32>
+    <sha1>0572f1fac3ff35b62ec0fd827f3bbfecc3ec6323</sha1>
+    <length>0.5</length>
+  </file>
+  <file name="ringout.mp3" source="derivative">
+    <bitrate>123</bitrate>
+    <length>00:00</length>
+    <format>VBR MP3</format>
+    <original>ringout.wav</original>
+    <mtime>1678224954</mtime>
+    <size>9557</size>
+    <md5>d1cbf76cd64e98d3e207489d5fde89bf</md5>
+    <crc32>a67d5d8d</crc32>
+    <sha1>789a5846bf7db862dcf856eec380a7844fb5b942</sha1>
+  </file>
+  <file name="ringout.png" source="derivative">
+    <format>PNG</format>
+    <original>ringout.wav</original>
+    <mtime>1678301958</mtime>
+    <size>44320</size>
+    <md5>95562a433c4f103127f32f9c79d77f30</md5>
+    <crc32>dfa5cfaa</crc32>
+    <sha1>ecfe42c551de862fad83dfa28cc3c3df567bafee</sha1>
+  </file>
+  <file name="ringout.wav" source="original">
+    <mtime>1678223850</mtime>
+    <size>88236</size>
+    <md5>9b5feaa7a61215ac931b6f3c65a547fe</md5>
+    <crc32>2b1f3fb0</crc32>
+    <sha1>2ce2cadc1d4bf547590c0785784b54151e981c75</sha1>
+    <format>WAVE</format>
+    <length>0.5</length>
+    <track>26</track>
+  </file>
+  <file name="ringout_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>ringout.wav</original>
+    <mtime>1678303038</mtime>
+    <size>212401</size>
+    <md5>4affe4e981eea93270281cd7a019fbd9</md5>
+    <crc32>09d49ceb</crc32>
+    <sha1>1fad5bae029ad64733b68cee00bdf265f3105b87</sha1>
+  </file>
+  <file name="tada.flac" source="derivative">
+    <format>Flac</format>
+    <original>tada.wav</original>
+    <mtime>1678301462</mtime>
+    <size>98286</size>
+    <md5>87c5c0ccafe55321f4e232145f5ea932</md5>
+    <crc32>ff99db79</crc32>
+    <sha1>9f0c5961b7ac473dcb11a1850cbd9f0a90ec7cbb</sha1>
+    <length>1.62</length>
+  </file>
+  <file name="tada.mp3" source="derivative">
+    <bitrate>143</bitrate>
+    <length>00:01</length>
+    <format>VBR MP3</format>
+    <original>tada.wav</original>
+    <mtime>1678224556</mtime>
+    <size>30483</size>
+    <md5>c144ccd32537c47b8af2d2205c61205d</md5>
+    <crc32>e1511d1a</crc32>
+    <sha1>70a485f9739abb08e8ee1a076d34da86b6309564</sha1>
+  </file>
+  <file name="tada.png" source="derivative">
+    <format>PNG</format>
+    <original>tada.wav</original>
+    <mtime>1678302341</mtime>
+    <size>29014</size>
+    <md5>7d96613b1c069cf6dc19cd4d3242e63c</md5>
+    <crc32>74043730</crc32>
+    <sha1>9b48663ac4b72ce76210e9e08413a8aa20f4ab11</sha1>
+  </file>
+  <file name="tada.wav" source="original">
+    <mtime>1678223853</mtime>
+    <size>285228</size>
+    <md5>9cea07534bbc6f606afe922133e63e8e</md5>
+    <crc32>6e581752</crc32>
+    <sha1>96473e0eb5b3f31e44c9a36c1d4f7875ce9b7da8</sha1>
+    <format>WAVE</format>
+    <length>1.62</length>
+    <track>32</track>
+  </file>
+  <file name="tada_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>tada.wav</original>
+    <mtime>1678303046</mtime>
+    <size>287481</size>
+    <md5>0dafe8c09d1f23140136291f47449832</md5>
+    <crc32>191728fb</crc32>
+    <sha1>83ff20972b0652e99273a327a14fc6242669c108</sha1>
+  </file>
+  <file name="town.mid" source="original">
+    <mtime>1678223856</mtime>
+    <size>22097</size>
+    <md5>14da05aec136c2db3149fa4cf11a45e6</md5>
+    <crc32>55fb09c4</crc32>
+    <sha1>7631bfe5e24f193869604ead2529fe16729cbf16</sha1>
+    <format>MIDI</format>
+    <viruscheck>1678223975</viruscheck>
+  </file>
+  <file name="town.mp3" source="derivative">
+    <bitrate>98</bitrate>
+    <length>01:18</length>
+    <format>VBR MP3</format>
+    <original>town.mid</original>
+    <mtime>1678224032</mtime>
+    <size>956744</size>
+    <md5>cb87d4c924d62be3af02eb9ed1d220e3</md5>
+    <crc32>4a9513e6</crc32>
+    <sha1>e8512514acc98cafef9f211490790654ccda9fb6</sha1>
+  </file>
+  <file name="town_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>town.mp3</original>
+    <mtime>1678302990</mtime>
+    <size>144588</size>
+    <md5>ffd8b1df0ddee0620b5c712e7070c6e2</md5>
+    <crc32>3f80989b</crc32>
+    <sha1>cb16ee44f453b9cd15fe08ddd07f00eb0c6e57d5</sha1>
+  </file>
+  <file name="w11_sounds_archive.torrent" source="metadata">
+    <btih>5ea98181568dbf95fff79151630f2da2b53b7aa3</btih>
+    <mtime>1678303448</mtime>
+    <size>66248</size>
+    <md5>3283e869e9f059ecc7069643c8cbc921</md5>
+    <crc32>6c1de47f</crc32>
+    <sha1>f174d2f2bddd0e607e1e366a275cd1bedb70b863</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="w11_sounds_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>98cee6b106f91335439c5e5008ef94e7</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="w11_sounds_meta.sqlite" source="original">
+    <mtime>1678223945</mtime>
+    <size>172032</size>
+    <md5>50f95b2d5d98c1f65e0549731b94d51a</md5>
+    <crc32>32374919</crc32>
+    <sha1>d127276180c46dbd5b0f0a0c48c715994e5471a3</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="w11_sounds_meta.xml" source="original">
+    <mtime>1678303397</mtime>
+    <size>719</size>
+    <md5>13db299dd55f74bfc9ea22fc3aef0139</md5>
+    <crc32>56ad5904</crc32>
+    <sha1>c754ff825e99b2c06a93533776258f644455a6be</sha1>
+    <format>Metadata</format>
+  </file>
+</files>

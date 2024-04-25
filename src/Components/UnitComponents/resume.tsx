@@ -15,7 +15,7 @@ function Resume() {
   return (
     <div
       id="resume_container"
-      className="hidden absolute top-[10%] rounded-lg w-[1200px] h-[450px] bg-stone-900 overflow-hidden overflow-y-scroll scrollview-disable"
+      className="hidden absolute top-[10%] rounded-lg shadow-lg w-[1200px] h-[450px] bg-stone-900 overflow-hidden overflow-y-scroll scrollview-disable"
     >
       <div
         id="tab_resume"

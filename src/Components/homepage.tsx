@@ -4,6 +4,7 @@ import Winexplorer from "./UnitComponents/winexplorer";
 import Resume from "./UnitComponents/resume";
 import Desktopicons from "./UnitComponents/desktopicons";
 import Trash from "./UnitComponents/trash";
+import Errordialogue from "./UnitComponents/errordialogue";
 const Homepage = () => {
   return (
     <div className="homepage bg-img w-[100vw] h-[100vh]">
@@ -16,6 +17,7 @@ const Homepage = () => {
       >
         lock
       </button> */}
+      <Errordialogue />
       <Resume />
       <Trash />
       <Winpopup />

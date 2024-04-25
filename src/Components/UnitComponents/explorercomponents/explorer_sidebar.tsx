@@ -8,14 +8,22 @@ import videos_ico from "../../../assets/icons/videos/videos.png";
 import music_ico from "../../../assets/icons/music/music.png";
 import local_c_ico from "../../../assets/icons/drives/c.png";
 import local_ico from "../../../assets/icons/drives/d.png";
+import { error_triggered } from "../../actions";
 import { RiArrowDropDownLine } from "react-icons/ri";
-import { NavLink } from "react-router-dom";
+import { NavLink, useLocation } from "react-router-dom";
 import { useState } from "react";
+import { useDispatch } from "react-redux";
 function Explorer_sidebar() {
   const img_class = "w-[1.2rem]";
   const p_class = "text-sm";
   const hover_class =
     "hover:bg-white/[0.15] hover:backdrop-blur-[1px] rounded-md";
+  const drive_err = {
+    stat: true,
+    title: "Account Security",
+    msg: ``,
+  };
+  const dispatch = useDispatch();
   const [quickshow, setQuickshow] = useState(true);
   const [thisshow, setthisshow] = useState(true);
   return (
@@ -101,28 +109,60 @@ function Explorer_sidebar() {
       {thisshow && (
         <div className="this_pc_dropdown py-2 flex flex-col">
           <NavLink
-            to={"/Disk_C"}
+            to={"./This_PC/Disk_C"}
+            onClick={() =>
+              dispatch(
+                error_triggered({
+                  ...drive_err,
+                  msg: "C:\\ is not accessible",
+                })
+              )
+            }
             className={`flex gap-2 items-center px-12 py-[0.3rem] ${hover_class}`}
           >
             <img src={local_c_ico} className={img_class} alt="" />
             <p className={`${p_class}`}>Disk (C:)</p>
           </NavLink>
           <NavLink
-            to={"/Disk_D"}
+            to={"./This_PC/Disk_D"}
+            onClick={() =>
+              dispatch(
+                error_triggered({
+                  ...drive_err,
+                  msg: "D:\\ is not accessible",
+                })
+              )
+            }
             className={`flex gap-2 items-center px-12 py-[0.3rem] ${hover_class}`}
           >
             <img src={local_ico} className={img_class} alt="" />
             <p className={`${p_class}`}>Disk (D:)</p>
           </NavLink>
           <NavLink
-            to={"/Disk_E"}
+            to={"./This_PC/Disk_E"}
+            onClick={() =>
+              dispatch(
+                error_triggered({
+                  ...drive_err,
+                  msg: "E:\\ is not accessible",
+                })
+              )
+            }
             className={`flex gap-2 items-center px-12 py-[0.3rem] ${hover_class}`}
           >
             <img src={local_ico} className={img_class} alt="" />
             <p className={`${p_class}`}>Disk (E:)</p>
           </NavLink>
           <NavLink
-            to={"/Disk_F"}
+            to={"./This_PC/Disk_F"}
+            onClick={() =>
+              dispatch(
+                error_triggered({
+                  ...drive_err,
+                  msg: "F:\\ is not accessible",
+                })
+              )
+            }
             className={`flex gap-2 items-center px-12 py-[0.3rem] ${hover_class}`}
           >
             <img src={local_ico} className={img_class} alt="" />

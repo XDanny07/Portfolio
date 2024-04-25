@@ -13,7 +13,7 @@ function Explorer_quick_access() {
   const dispatch = useDispatch();
   const img_class = "w-[3.5rem]";
   const hover_class =
-    "hover:bg-white/[0.15] hover:backdrop-blur-[1px] rounded-md";
+    "hover:bg-white/[0.15] hover:backdrop-blur-[1px] rounded-md cursor-pointer";
   return (
     <div className="mt-3 ml-2 font-light">
       <div className="flex items-center gap-4">

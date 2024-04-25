@@ -9,9 +9,16 @@ import Disk_D from "../../../../assets/icons/drives/d.png";
 import { useDispatch } from "react-redux";
 import { RiArrowDropDownLine } from "react-icons/ri";
 import { BsFillPinAngleFill } from "react-icons/bs";
+import { NavLink, useLocation } from "react-router-dom";
+import { error_triggered } from "../../../actions";
 function Explorer_thispc() {
   const dispatch = useDispatch();
   const img_class = "w-[3.5rem]";
+  const drive_err = {
+    stat: true,
+    title: "Account Security",
+    msg: ``,
+  };
   const hover_class =
     "hover:bg-white/[0.15] hover:backdrop-blur-[1px] rounded-md cursor-pointer";
   return (
@@ -77,7 +84,16 @@ function Explorer_thispc() {
         <hr className="w-full border-gray-700" />
       </div>
       <div className="grid grid-cols-2">
-        <div
+        <NavLink
+          to={"./Disk_C"}
+          onClick={() =>
+            dispatch(
+              error_triggered({
+                ...drive_err,
+                msg: "C:\\ is not accessible",
+              })
+            )
+          }
           className={`ml-8 text-sm flex items-center gap-2 p-1 ${hover_class} rounded-md`}
         >
           <img src={Disk_C} className="w-[3.2rem]" alt="" />
@@ -88,8 +104,17 @@ function Explorer_thispc() {
             </div>
             <p>276 GB free of 476 GB</p>
           </div>
-        </div>
-        <div
+        </NavLink>
+        <NavLink
+          to={"./Disk_D"}
+          onClick={() =>
+            dispatch(
+              error_triggered({
+                ...drive_err,
+                msg: "C:\\ is not accessible",
+              })
+            )
+          }
           className={`ml-8 text-sm flex items-center gap-2 p-1 ${hover_class} rounded-md`}
         >
           <img src={Disk_D} className="w-[3.2rem]" alt="" />
@@ -100,8 +125,17 @@ function Explorer_thispc() {
             </div>
             <p>128 GB free of 226 GB</p>
           </div>
-        </div>
-        <div
+        </NavLink>
+        <NavLink
+          to={"./Disk_E"}
+          onClick={() =>
+            dispatch(
+              error_triggered({
+                ...drive_err,
+                msg: "C:\\ is not accessible",
+              })
+            )
+          }
           className={`ml-8 text-sm flex items-center gap-2 p-1 ${hover_class} rounded-md`}
         >
           <img src={Disk_D} className="w-[3.2rem]" alt="" />
@@ -112,8 +146,17 @@ function Explorer_thispc() {
             </div>
             <p>211 GB free of 226 GB</p>
           </div>
-        </div>
-        <div
+        </NavLink>
+        <NavLink
+          to={"./Disk_F"}
+          onClick={() =>
+            dispatch(
+              error_triggered({
+                ...drive_err,
+                msg: "C:\\ is not accessible",
+              })
+            )
+          }
           className={`ml-8 text-sm flex items-center gap-2 p-1 ${hover_class} rounded-md`}
         >
           <img src={Disk_D} className="w-[3.2rem]" alt="" />
@@ -124,7 +167,7 @@ function Explorer_thispc() {
             </div>
             <p>434 GB free of 478 GB</p>
           </div>
-        </div>
+        </NavLink>
       </div>
     </div>
   );

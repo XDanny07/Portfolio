@@ -3,10 +3,12 @@ import word_ico from "../../assets/icons/recommended/word.png";
 import trash_ico from "../../assets/icons/Desktop/recycle-bin-full.png";
 import folder_ico from "../../assets/icons/folder/folder.png";
 import links_ico from "../../assets/icons/links/links.png";
+import nfsmw_ico from "../../assets/NFSMW_icon.ico";
 import { trash_clicked } from "../actions";
 import { resume_clicked } from "../actions";
 import { useDispatch } from "react-redux";
 import { explorer_clicked } from "../actions";
+import { error_triggered } from "../actions";
 import { NavLink } from "react-router-dom";
 function Desktopicons() {
   const dispatch = useDispatch();
@@ -16,7 +18,7 @@ function Desktopicons() {
   const icon_div_class =
     "flex flex-col items-center gap-1 cursor-pointer hover:bg-white/[0.15] hover:backdrop-blur-[1px] hover:text-white p-2 rounded-md w-[80px] h-[80px] justify-center";
   return (
-    <div className="desktop-icons-container flex flex-col w-max p-5 gap-4 justify-center">
+    <div className="desktop-icons-container max-h-[98%] flex flex-col flex-wrap w-max p-5 gap-4 justify-center">
       <NavLink
         to={"./This_PC"}
         onClick={() => dispatch(explorer_clicked(true))}
@@ -40,6 +42,15 @@ function Desktopicons() {
         <img className={img_class} src={folder_ico} alt="" />
         <span className={ico_name_class}>Tools</span>
       </NavLink>
+
+      <NavLink
+        to={"/Desktop/Projects"}
+        className={icon_div_class}
+        onClick={() => dispatch(explorer_clicked(true))}
+      >
+        <img className={img_class} src={folder_ico} alt="" />
+        <span className={ico_name_class}>Projects</span>
+      </NavLink>
       <NavLink
         to={"/Desktop/Links"}
         className={icon_div_class}
@@ -54,6 +65,21 @@ function Desktopicons() {
       >
         <img className={img_class} src={trash_ico} alt="" />
         <span className={ico_name_class}>Trash</span>
+      </div>
+      <div
+        className={icon_div_class}
+        onClick={() =>
+          dispatch(
+            error_triggered({
+              stat: true,
+              title: "Overflow",
+              msg: "Fk Youuuuu",
+            })
+          )
+        }
+      >
+        <img className={img_class} src={nfsmw_ico} alt="" />
+        <span className={ico_name_class}>NFS MW</span>
       </div>
     </div>
   );

@@ -15,7 +15,7 @@ function Winexplorer() {
   return (
     <div
       id="winexplorer"
-      className="hidden absolute top-[10%] rounded-lg w-[1000px] h-[600px] bg-transparent backdrop-blur-3xl overflow-hidden"
+      className="hidden absolute top-[10%] shadow-lg rounded-lg w-[1000px] h-[600px] bg-transparent backdrop-blur-3xl overflow-hidden"
     >
       <div
         id="tab_winexplorer"
