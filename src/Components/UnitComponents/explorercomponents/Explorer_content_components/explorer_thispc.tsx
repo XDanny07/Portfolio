@@ -9,7 +9,7 @@ import Disk_D from "../../../../assets/icons/drives/d.png";
 import { useDispatch } from "react-redux";
 import { RiArrowDropDownLine } from "react-icons/ri";
 import { BsFillPinAngleFill } from "react-icons/bs";
-import { NavLink, useLocation } from "react-router-dom";
+import { NavLink } from "react-router-dom";
 import { error_triggered } from "../../../actions";
 function Explorer_thispc() {
   const dispatch = useDispatch();

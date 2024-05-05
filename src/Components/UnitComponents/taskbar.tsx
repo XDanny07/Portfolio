@@ -3,12 +3,11 @@ import edge from "../../assets/edge.png";
 import file from "../../assets/fold.avif";
 import vs from "../../assets/vs.png";
 import { winclicked, explorer_clicked } from "../actions";
-import { useSelector, useDispatch } from "react-redux";
+import { useDispatch } from "react-redux";
 import { NavLink } from "react-router-dom";
 
 function Taskbar() {
   const dispatch = useDispatch();
-  const clicked = useSelector((state: any) => state.showwinpopup);
   const img_class =
     "w-[3.3rem] p-[0.6rem] hover:bg-white/[0.15] hover:backdrop-blur-[1px] rounded-md";
 

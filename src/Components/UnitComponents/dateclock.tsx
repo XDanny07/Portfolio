@@ -5,11 +5,11 @@ function Dateclock() {
     minutes: new Date().getMinutes(),
     hours: new Date().getHours(),
   });
-  const [date, setDate] = useState({
+  var date = {
     day: new Date().getDay(),
     dateno: new Date().getDate(),
     month: new Date().getMonth(),
-  });
+  };
   const daysofweek = [
     "Sunday",
     "Monday",
