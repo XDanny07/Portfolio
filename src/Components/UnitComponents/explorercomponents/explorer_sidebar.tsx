@@ -10,7 +10,7 @@ import local_c_ico from "../../../assets/icons/drives/c.png";
 import local_ico from "../../../assets/icons/drives/d.png";
 import { error_triggered } from "../../actions";
 import { RiArrowDropDownLine } from "react-icons/ri";
-import { NavLink, useLocation } from "react-router-dom";
+import { NavLink } from "react-router-dom";
 import { useState } from "react";
 import { useDispatch } from "react-redux";
 function Explorer_sidebar() {

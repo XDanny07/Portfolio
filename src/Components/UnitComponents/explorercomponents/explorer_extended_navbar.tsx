@@ -1,5 +1,4 @@
 import pluscircle_ico from "../../../assets/explorer_custom_icons/pluscircle.png";
-import menu_ico from "../../../assets/explorer_custom_icons/menu.png";
 import dots_ico from "../../../assets/explorer_custom_icons/dots.png";
 import delete_ico from "../../../assets/explorer_custom_icons/delete.png";
 import rename_ico from "../../../assets/explorer_custom_icons/rename.png";
