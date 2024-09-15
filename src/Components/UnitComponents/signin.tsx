@@ -4,6 +4,7 @@ import { IoEyeOffOutline } from "react-icons/io5";
 import { useState } from "react";
 import { lock } from "../actions/index.tsx";
 import { useDispatch } from "react-redux";
+import userico from "../../assets/user.png";
 import gsap from "gsap";
 function Signin() {
   const dispatch = useDispatch();
@@ -17,11 +18,7 @@ function Signin() {
   };
   return (
     <div className="flex flex-col items-center gap-5">
-      <img
-        className="rounded-full w-[13rem]"
-        src="./src/assets/user.png"
-        alt="usericon"
-      />
+      <img className="rounded-full w-[13rem]" src={userico} alt="usericon" />
 
       <span className="text-2xl font-bold">Visitor</span>
       <div className="relative mt-6">

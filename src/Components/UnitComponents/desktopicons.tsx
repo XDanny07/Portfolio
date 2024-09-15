@@ -73,7 +73,7 @@ function Desktopicons() {
             error_triggered({
               stat: true,
               title: "Overflow",
-              msg: "Your System Ran Out Of Memory",
+              msg: "Your system ran out of memory",
             })
           )
         }
