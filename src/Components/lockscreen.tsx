@@ -26,7 +26,7 @@ function Lockscreen() {
     });
   }, [click]);
   return (
-    <div className="absolute lscreen z-[999]">
+    <div className="absolute lscreen z-[501]">
       <div
         className="bg-lock w-[100vw] h-[100vh]"
         onClick={async () => {

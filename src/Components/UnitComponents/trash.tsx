@@ -42,10 +42,10 @@ function Trash() {
         className="p-4
       "
       >
-        <div className={icon_div_class}>
+        {/* <div className={icon_div_class}>
           <img className={img_class} src={angular_ico} alt="" />
           <p>Angular</p>
-        </div>
+        </div> */}
       </div>
     </div>
   );

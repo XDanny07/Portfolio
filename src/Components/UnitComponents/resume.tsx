@@ -180,8 +180,8 @@ function Resume() {
                 Web Technologies :
               </p>
               <p className="text-md">
-                React.js, Node.js, Angular, Django, Express.js, Javascript,
-                TailwindCSS, GSAP, jQuery, Bootstrap5
+                React.js, React-Native, Node.js, Express.js, Javascript,
+                TailwindCSS, MySQL, MongoDB
               </p>
             </div>
             <div className="flex gap-2">

@@ -9,22 +9,42 @@ function Explorer_projects() {
       <div className="flex flex-col gap-2">
         <div className={`flex flex-col gap-2 ${hover_class}`}>
           <a
-            href="https://github.com/XDanny07"
+            href="https://github.com/XDanny07/PictoPals"
             target="new"
             className="flex items-center gap-3"
           >
             <FaGithub className="text-xl" />
-            <p>P2P File Sharing Using Java</p>
+            <p>Picto-Pals</p>
           </a>
         </div>
         <div className={`flex flex-col gap-2 ${hover_class}`}>
           <a
-            href="https://github.com/XDanny07"
+            href="https://github.com/XDanny07/BizHub"
             target="new"
             className="flex items-center gap-3"
           >
             <FaGithub className="text-xl" />
-            <p>P2P File Sharing Using Java</p>
+            <p>BizHub</p>
+          </a>
+        </div>
+        <div className={`flex flex-col gap-2 ${hover_class}`}>
+          <a
+            href="https://github.com/XDanny07/DocMe"
+            target="new"
+            className="flex items-center gap-3"
+          >
+            <FaGithub className="text-xl" />
+            <p>DocMe</p>
+          </a>
+        </div>
+        <div className={`flex flex-col gap-2 ${hover_class}`}>
+          <a
+            href="https://github.com/XDanny07/Portfolio"
+            target="new"
+            className="flex items-center gap-3"
+          >
+            <FaGithub className="text-xl" />
+            <p>Portfolio</p>
           </a>
         </div>
       </div>
