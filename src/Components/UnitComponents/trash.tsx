@@ -3,12 +3,12 @@ import useDragger from "../../hooks/useDragger";
 import useAnim from "../../hooks/useAnim";
 import trash_ico from "../../assets/icons/Desktop/recycle-bin-full.png";
 import { trash_clicked } from "../actions";
-import angular_ico from "../../assets/icons/Desktop/angularjs-original.svg";
+// import angular_ico from "../../assets/icons/Desktop/angularjs-original.svg";
 
 function Trash() {
-  const img_class = "fit-contain w-[50px] h-[50px] cursor-pointer";
-  const icon_div_class =
-    "flex flex-col items-center gap-1 cursor-pointer hover:bg-white/[0.15] hover:backdrop-blur-[1px] hover:text-white p-2 rounded-md w-[80px] h-[80px] justify-center";
+  // const img_class = "fit-contain w-[50px] h-[50px] cursor-pointer";
+  // const icon_div_class =
+  "flex flex-col items-center gap-1 cursor-pointer hover:bg-white/[0.15] hover:backdrop-blur-[1px] hover:text-white p-2 rounded-md w-[80px] h-[80px] justify-center";
 
   const clicked = useSelector((state: any) => state.showtrash);
   const dispatch = useDispatch();
